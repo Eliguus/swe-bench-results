@@ -5,7 +5,7 @@ from collections import defaultdict
 import itertools
 
 # Configuration
-RESULTS_DIR = r"c:\Users\naolt\Downloads\class projects\dkang\results\result"
+RESULTS_DIR = r"c:\Users\naolt\Downloads\class projects\dkang\results\run_result"
 RESULTS_DIR_ALT = r"c:\Users\naolt\Downloads\class projects\dkang\results\results"
 
 def get_results_dir():

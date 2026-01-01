@@ -4,7 +4,7 @@ import re
 from collections import defaultdict
 
 # Configurations
-GENERATED_RESULTS_DIR = r"c:\Users\naolt\Downloads\class projects\dkang\results\result"
+GENERATED_RESULTS_DIR = r"c:\Users\naolt\Downloads\class projects\dkang\results\run_result"
 GENERATED_RESULTS_DIR_ALT = r"c:\Users\naolt\Downloads\class projects\dkang\results\results"
 REAL_RESULTS_DIR = r"c:\Users\naolt\Downloads\class projects\dkang\results\filtered_results"
 

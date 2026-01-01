@@ -1,0 +1,948 @@
+{
+    "scikit-learn__scikit-learn-14894": [
+        "test_sparse_svr_empty_support_vectors_no_zerodivision",
+        "test_sparse_svr_empty_support_vectors_predict_matches_dense"
+    ],
+    "scikit-learn__scikit-learn-14710": [
+        "test_hist_gradient_boosting_classifier_string_y_with_early_stopping"
+    ],
+    "pydata__xarray-4695": [
+        "test_loc_with_dim_named_method"
+    ],
+    "sympy__sympy-22914": [
+        "test_pycode_max_prints_builtin_max",
+        "test_pycode_min_max_do_not_affect_other_function_printing",
+        "test_pycode_min_max_multiple_args",
+        "test_pycode_min_prints_builtin_min",
+        "test_pycode_nested_min_max"
+    ],
+    "pydata__xarray-4075": [
+        "test_weighted_mean_bool_weights_dim_reduction_preserves_other_dims",
+        "test_weighted_mean_bool_weights_matches_int_weights_scalar",
+        "test_weighted_mean_bool_weights_with_missing_data_skipna_default",
+        "test_weighted_sum_of_weights_bool_weights_counts_true"
+    ],
+    "django__django-16485": [
+        "test_floatformat_decimal_zero_point_zero_zero_arg_negative_zero",
+        "test_floatformat_decimal_zero_point_zero_zero_arg_zero",
+        "test_floatformat_string_zero_point_zero_zero_arg_negative_zero",
+        "test_floatformat_string_zero_point_zero_zero_arg_zero"
+    ],
+    "django__django-14315": [
+        "test_runshell_env_none_when_no_client_env_does_not_override_os_environ"
+    ],
+    "sympy__sympy-12481": [
+        "test_constructor_allows_nondisjoint_cycles_identity",
+        "test_constructor_nondisjoint_cycles_with_repeated_points"
+    ],
+    "pydata__xarray-3993": [
+        "test_dataarray_integrate_accepts_coord_kwarg_and_matches_positional",
+        "test_dataset_integrate_still_accepts_coord_kwarg_and_matches_dataarray"
+    ],
+    "sympy__sympy-13757": [
+        "test_mul_expr_left_poly_right_evaluates_to_poly",
+        "test_mul_integer_left_poly_right_evaluates_to_poly"
+    ],
+    "pallets__flask-5014": [
+        "test_blueprint_empty_name_raises_value_error",
+        "test_blueprint_none_name_raises_value_error"
+    ],
+    "django__django-14089": [
+        "test_has_dunder_reversed_attribute",
+        "test_reversed_after_mutations",
+        "test_reversed_empty",
+        "test_reversed_is_iterable_and_consumable",
+        "test_reversed_returns_items_in_reverse_insertion_order"
+    ],
+    "sympy__sympy-13877": [
+        "test_det_matrix_known_zero_for_n_ge_3",
+        "test_det_matrix_symbolic_entries_matches_numeric_substitution"
+    ],
+    "matplotlib__matplotlib-26208": [
+        "test_twinx_plot_does_not_corrupt_stackplot_datalim"
+    ],
+    "django__django-10097": [
+        "test_appending_email_like_query_does_not_make_invalid_netloc_valid",
+        "test_rejects_unencoded_at_in_username_or_password",
+        "test_rejects_unencoded_slash_in_username_or_password"
+    ],
+    "pydata__xarray-4629": [
+        "test_merge_combine_attrs_override_dataset_attrs_are_copied_not_referenced",
+        "test_merge_combine_attrs_override_empty_first_attrs_no_aliasing"
+    ],
+    "astropy__astropy-14598": [
+        "test_card_roundtrip_preserves_internal_double_single_quotes",
+        "test_card_roundtrip_preserves_trailing_double_single_quotes"
+    ],
+    "scikit-learn__scikit-learn-13496": [
+        "test_iforest_init_exposes_warm_start_default_false",
+        "test_iforest_warm_start_adds_estimators_when_n_estimators_increases",
+        "test_iforest_warm_start_false_rebuilds_ensemble_on_refit",
+        "test_iforest_warm_start_same_n_estimators_does_not_change_ensemble"
+    ],
+    "scikit-learn__scikit-learn-10297": [
+        "test_ridge_classifier_cv_accepts_store_cv_values_and_sets_attribute"
+    ],
+    "scikit-learn__scikit-learn-13142": [
+        "test_fit_predict_predict_same_labels_for_each_covariance_type",
+        "test_fit_predict_predict_same_labels_with_n_init_gt_1",
+        "test_fit_predict_predict_same_labels_with_random_init_params"
+    ],
+    "django__django-13343": [
+        "test_filefield_deconstruct_does_not_evaluate_callable_storage",
+        "test_filefield_deconstruct_includes_storage_callable_not_instance"
+    ],
+    "matplotlib__matplotlib-24026": [
+        "test_stackplot_accepts_CN_colors_and_does_not_change_prop_cycle",
+        "test_stackplot_accepts_CN_colors_without_advancing_cycle"
+    ],
+    "django__django-10914": [
+        "test_default_file_upload_permissions_is_0644"
+    ],
+    "sympy__sympy-15809": [
+        "test_empty_Max_returns_minus_oo",
+        "test_empty_MinMax_evaluate_false_still_return_infinities",
+        "test_empty_MinMax_identities_in_expressions",
+        "test_empty_MinMax_simplification_with_infinities",
+        "test_empty_Min_returns_oo"
+    ],
+    "django__django-11815": [
+        "test_enum_default_is_serialized_by_name_not_value",
+        "test_enum_serializer_does_not_use_value_call_syntax"
+    ],
+    "django__django-12125": [
+        "test_serialize_model_nested_enum_like_class_path"
+    ],
+    "matplotlib__matplotlib-13989": [
+        "test_hist_respects_range_when_density_true_auto_bins",
+        "test_hist_respects_range_when_density_true_integer_bins"
+    ],
+    "sympy__sympy-18189": [
+        "test_diophantine_permutes_independent_of_syms_order_biquartic"
+    ],
+    "sympy__sympy-16450": [
+        "test_posify_preserves_finite_assumption_for_iterable_input",
+        "test_posify_preserves_finite_assumption_in_expression",
+        "test_posify_preserves_finite_assumption_on_symbol"
+    ],
+    "astropy__astropy-8707": [
+        "test_card_fromstring_accepts_ascii_bytes",
+        "test_header_fromstring_accepts_ascii_bytes",
+        "test_header_fromstring_accepts_bytes_with_custom_sep"
+    ],
+    "scikit-learn__scikit-learn-11310": [
+        "test_gridsearchcv_refit_time_attribute_present_and_positive",
+        "test_randomizedsearchcv_refit_time_attribute_present_and_positive"
+    ],
+    "sympy__sympy-21847": [
+        "test_itermonomials_min_degree_range_includes_mixed_and_bounds",
+        "test_itermonomials_min_degree_total_degree_exact"
+    ],
+    "matplotlib__matplotlib-24570": [
+        "test_hpacker_align_bottom_places_bottoms_together"
+    ],
+    "django__django-16454": [
+        "test_subparser_missing_required_argument_command_line_mode_raises_systemexit"
+    ],
+    "django__django-14140": [
+        "test_deconstruct_single_child_non_subscriptable_expression",
+        "test_deconstruct_single_child_tuple_becomes_args_not_kwargs"
+    ],
+    "pydata__xarray-7229": [
+        "test_where_keep_attrs_preserves_coordinate_attrs_dataarray",
+        "test_where_keep_attrs_preserves_coordinate_attrs_dataset"
+    ],
+    "django__django-11451": [
+        "test_authenticate_password_none_short_circuits_without_db_query",
+        "test_authenticate_username_none_short_circuits_without_db_query"
+    ],
+    "sympy__sympy-12096": [
+        "test_evalf_calls__imp__recursively_for_composed_implemented_functions"
+    ],
+    "pydata__xarray-4094": [
+        "test_to_unstacked_dataset_roundtrip_single_dim_vars",
+        "test_to_unstacked_dataset_roundtrip_single_dim_vars_with_extra_coords"
+    ],
+    "astropy__astropy-14995": [
+        "test_masked_times_scalar_bitwise_or_propagates_mask",
+        "test_masked_times_unmasked_nddataref_bitwise_or_propagates_mask"
+    ],
+    "pytest-dev__pytest-6202": [
+        "test_getmodpath_does_not_collapse_dot_bracket_in_param_id",
+        "test_reportinfo_uses_unmodified_modpath_when_param_id_contains_dot_bracket"
+    ],
+    "django__django-13568": [
+        "test_username_field_with_total_unique_constraint_no_error"
+    ],
+    "django__django-11790": [
+        "test_username_renders_with_maxlength_attribute_default_user"
+    ],
+    "django__django-11292": [
+        "test_help_includes_skip_checks_for_management_commands",
+        "test_run_from_argv_accepts_skip_checks_option"
+    ],
+    "astropy__astropy-13453": [
+        "test_html_write_respects_formats_callable"
+    ],
+    "sympy__sympy-19954": [
+        "test_minimal_blocks_dihedral_18_smoke",
+        "test_sylow_subgroup_dihedral_18_p2_no_indexerror_and_order",
+        "test_sylow_subgroup_dihedral_50_p2_no_indexerror_and_order"
+    ],
+    "scikit-learn__scikit-learn-25931": [
+        "test_iforest_fit_dataframe_contamination_not_auto_no_feature_name_warning"
+    ],
+    "sympy__sympy-20428": [
+        "test_clear_denoms_zero_poly_stripped_rep_and_is_zero",
+        "test_clear_denoms_zero_poly_terms_gcd_and_primitive_no_error_and_expected"
+    ],
+    "django__django-11119": [
+        "test_render_to_string_honors_engine_autoescape_false"
+    ],
+    "astropy__astropy-13236": [
+        "test_structured_ndarray_added_as_column_not_ndarraymixin",
+        "test_structured_ndarray_table_init_added_as_column_not_ndarraymixin"
+    ],
+    "django__django-13786": [
+        "test_create_model_reduce_replaces_options_not_merges_them",
+        "test_create_model_reduce_unsets_options_when_altermodeloptions_empty"
+    ],
+    "scikit-learn__scikit-learn-13124": [
+        "test_stratified_kfold_shuffle_changes_fold_assignment_across_seeds"
+    ],
+    "django__django-13012": [
+        "test_expressionwrapper_value_not_in_group_by_sql"
+    ],
+    "sympy__sympy-22714": [
+        "test_sympify_point2d_inside_evaluate_false_context",
+        "test_sympify_point2d_inside_evaluate_false_context_whitespace_variants",
+        "test_sympify_point3d_inside_evaluate_false_context"
+    ],
+    "django__django-11276": [
+        "test_escape_matches_python_stdlib_html_escape_default_quote_true",
+        "test_escape_preserves_non_ascii_and_escapes_only_html_significant_chars",
+        "test_force_escape_filter_uses_updated_escape_behavior_single_quote_hex"
+    ],
+    "django__django-16667": [
+        "test_form_is_valid_with_overflow_input_does_not_error"
+    ],
+    "scikit-learn__scikit-learn-14053": [
+        "test_export_text_single_feature_does_not_raise_and_mentions_feature_name"
+    ],
+    "sympy__sympy-19783": [
+        "test_dagger_times_identity_simplifies_left_and_is_stable",
+        "test_dagger_times_identity_simplifies_right"
+    ],
+    "pydata__xarray-3677": [
+        "test_dataset_merge_accepts_dataarray_scalar",
+        "test_dataset_merge_dataarray_compat_override_resolves_conflict",
+        "test_dataset_merge_dataarray_same_name_conflict_raises_mergeerror",
+        "test_dataset_merge_dataarray_unnamed_raises"
+    ],
+    "pydata__xarray-4966": [
+        "test_decode_cf_variable_unsigned_false_casts_uint8_to_int8"
+    ],
+    "django__django-14053": [
+        "test_post_process_does_not_duplicate_yields_when_no_substitutions",
+        "test_post_process_yields_each_original_name_once_across_passes",
+        "test_post_process_yields_once_per_original_even_with_intermediate_files_kept"
+    ],
+    "sympy__sympy-14711": [
+        "test_vector_radd_with_python_int_zero",
+        "test_vector_sum_start_parameter_with_zero_does_not_raise",
+        "test_vector_sum_with_zero_term_does_not_raise"
+    ],
+    "scikit-learn__scikit-learn-25747": [
+        "test_feature_union_pandas_output_concatenates_multiple_aggregating_outputs_by_index",
+        "test_feature_union_pandas_output_with_aggregating_transformer_does_not_error"
+    ],
+    "pytest-dev__pytest-10051": [
+        "test_caplog_get_records_same_object_identity_after_clear",
+        "test_caplog_get_records_tracks_records_after_clear"
+    ],
+    "pydata__xarray-3151": [
+        "test_combine_by_coords_identical_nonmonotonic_dim_coord_multiple_vars",
+        "test_combine_by_coords_identical_nonmonotonic_dim_coord_no_error"
+    ],
+    "pydata__xarray-7233": [
+        "test_coarsen_construct_coordinate_with_attrs_preserved_as_coordinate",
+        "test_coarsen_construct_preserves_1d_aux_coord_status"
+    ],
+    "pydata__xarray-3305": [
+        "test_dataarray_quantile_keep_attrs_true_preserves_attrs",
+        "test_dataarray_quantile_keep_attrs_true_preserves_coordinate_attrs",
+        "test_dataarray_quantile_keep_attrs_true_with_multiple_quantiles_preserves_attrs",
+        "test_dataarray_quantile_keep_attrs_true_with_scalar_quantile_preserves_attrs"
+    ],
+    "django__django-15731": [
+        "test_inspect_signature_on_manager_method_bulk_create"
+    ],
+    "sympy__sympy-24443": [
+        "test_homomorphism_dihedral_generators_selfmap_no_valueerror",
+        "test_homomorphism_dihedral_inverted_generator_image"
+    ],
+    "pydata__xarray-6938": [
+        "test_mvce_sequence_swap_dims_does_not_mutate_intermediate_dataset"
+    ],
+    "django__django-11999": [
+        "test_override_get_FIELD_display_is_not_overwritten_by_modelbase"
+    ],
+    "matplotlib__matplotlib-24177": [
+        "test_hist_step_and_bar_density_autoscale_similar",
+        "test_hist_step_density_autoscale_includes_peak",
+        "test_hist_step_density_autoscale_invariant_under_rescaling"
+    ],
+    "scikit-learn__scikit-learn-14141": [
+        "test_show_versions_includes_joblib_in_deps_info"
+    ],
+    "django__django-12419": [
+        "test_default_sets_referrer_policy_same_origin"
+    ],
+    "sympy__sympy-11618": [
+        "test_distance_mixed_dimensions_includes_all_extra_dims_not_just_one",
+        "test_distance_mixed_dimensions_includes_extra_dims"
+    ],
+    "django__django-15127": [
+        "test_level_tags_restored_after_override_settings_exits",
+        "test_level_tags_updated_inside_override_settings",
+        "test_nested_override_settings_uses_innermost_value"
+    ],
+    "scikit-learn__scikit-learn-11578": [
+        "test__log_reg_scoring_path_neg_log_loss_multinomial_matches_manual_softmax"
+    ],
+    "sympy__sympy-23534": [
+        "test_symbols_nested_sequence_cls_function_call_behavior",
+        "test_symbols_nested_sequence_cls_function_returns_functions"
+    ],
+    "scikit-learn__scikit-learn-14496": [
+        "test_optics_min_samples_float_does_not_error"
+    ],
+    "sympy__sympy-17318": [
+        "test_sqrtdenest_no_indexerror_on_simple_non_denestable_complex"
+    ],
+    "pydata__xarray-3095": [
+        "test_copy_deep_preserves_unicode_indexvariable_dtype_dataset_and_dataarray"
+    ],
+    "django__django-12304": [
+        "test_textchoices_class_is_not_called_in_template_if",
+        "test_textchoices_class_is_not_called_when_rendering_variable"
+    ],
+    "astropy__astropy-14182": [
+        "test_rst_write_accepts_header_rows_name_unit",
+        "test_rst_write_header_rows_name_only_matches_default"
+    ],
+    "matplotlib__matplotlib-24149": [
+        "test_bar_all_nan_x_and_height_does_not_raise_and_returns_rectangle",
+        "test_bar_nan_x_with_finite_height_does_not_raise"
+    ],
+    "astropy__astropy-8872": [
+        "test_float16_array_times_unit_preserves_float16_dtype",
+        "test_float16_scalar_times_unit_preserves_float16_dtype",
+        "test_quantity_constructor_from_float16_preserves_dtype"
+    ],
+    "matplotlib__matplotlib-22719": [
+        "test_convert_units_empty_sequence_on_category_units_no_warning_no_error",
+        "test_plot_empty_on_category_units_no_warning_no_error",
+        "test_plot_empty_x_with_category_units_and_nonempty_y_no_warning"
+    ],
+    "matplotlib__matplotlib-25332": [
+        "test_pickle_align_labels_subset_axes",
+        "test_pickle_figure_after_align_labels",
+        "test_pickle_figure_after_align_xlabels_ylabels"
+    ],
+    "sympy__sympy-13091": [
+        "test_basic_eq_returns_notimplemented_for_unknown_type",
+        "test_symmetric_eq_delegates_to_other_when_sympy_cant_sympify"
+    ],
+    "django__django-13794": [
+        "test_add_filter_concatenates_lazy_str_and_lazy_str",
+        "test_add_filter_concatenates_str_and_lazy_str_value_plus_arg",
+        "test_add_filter_template_usage_str_plus_lazy_str"
+    ],
+    "sympy__sympy-24661": [
+        "test_parse_expr_evaluate_false_relational_does_not_bool_evaluate",
+        "test_parse_expr_evaluate_false_relational_inside_bool_op_is_not_simplified"
+    ],
+    "sympy__sympy-19495": [
+        "test_conditionset_imageset_subs_simultaneous_matches_regular_subs"
+    ],
+    "pytest-dev__pytest-7432": [
+        "test_skip_location_reporting_unchanged_by_runxfail_for_skip_mark",
+        "test_skip_location_reporting_unchanged_by_runxfail_for_skipif_mark"
+    ],
+    "pylint-dev__pylint-6903": [
+        "test_query_cpu_cgroup_shares_never_returns_zero"
+    ],
+    "sympy__sympy-19637": [
+        "test_kernS_handles_trivial_and_whitespace_inputs",
+        "test_kernS_no_unboundlocalerror_on_fraction_expression",
+        "test_kernS_output_sympifies_to_expected_expression"
+    ],
+    "django__django-14752": [
+        "test_default_serialize_result_shape_matches_original",
+        "test_serialize_result_extension_point_exists"
+    ],
+    "sympy__sympy-12489": [
+        "test_permutation_subclass_identity_constructor",
+        "test_permutation_subclass_operations_preserve_subclass_type"
+    ],
+    "matplotlib__matplotlib-25479": [
+        "test_set_cmap_by_registered_name_works_even_if_cmap_internal_name_differs"
+    ],
+    "django__django-11880": [
+        "test_deepcopy_field_error_messages_dict_is_not_shared",
+        "test_modifying_one_form_instance_error_messages_does_not_affect_new_instance",
+        "test_two_form_instances_do_not_share_field_error_messages"
+    ],
+    "psf__requests-5414": [
+        "test_prepare_url_leading_dot_host_raises_invalidurl_not_unicodeerror",
+        "test_prepare_url_single_dot_host_raises_invalidurl",
+        "test_requests_get_leading_dot_host_raises_invalidurl"
+    ],
+    "matplotlib__matplotlib-25287": [
+        "test_offsettext_uses_labelcolor_not_tick_color_xaxis",
+        "test_offsettext_uses_labelcolor_not_tick_color_yaxis"
+    ],
+    "sphinx-doc__sphinx-7462": [
+        "test_parse_annotation_empty_tuple_builtin_tuple_parens",
+        "test_parse_annotation_empty_tuple_typing_tuple_parens",
+        "test_parse_annotation_list_empty_still_ok",
+        "test_parse_annotation_nonempty_tuple_still_renders_commas"
+    ],
+    "astropy__astropy-14508": [
+        "test_card_float_formatting_hierarch_preserves_comment",
+        "test_card_float_formatting_nonhierarch_preserves_comment",
+        "test_roundtrip_via_header_preserves_value_and_comment"
+    ],
+    "django__django-14631": [
+        "test_clean_fields_uses_boundfield_initial_for_disabled_callable_datetime"
+    ],
+    "sympy__sympy-13878": [
+        "test_cdf_arcsin_precomputed_and_symbolic",
+        "test_cdf_erlang_returns_symbolic_incomplete_gamma_not_float",
+        "test_cdf_student_t_hypergeometric_no_integral_and_is_numeric"
+    ],
+    "django__django-13741": [
+        "test_readonlypasswordhashfield_disabled_by_default",
+        "test_readonlypasswordhashfield_ignores_tampered_post_value",
+        "test_userchangeform_password_field_is_disabled"
+    ],
+    "scikit-learn__scikit-learn-10908": [
+        "test_get_feature_names_does_not_raise_notfitted_when_vocabulary_provided",
+        "test_get_feature_names_sets_vocabulary_attribute_when_vocabulary_provided"
+    ],
+    "sympy__sympy-23262": [
+        "test_lambdify_generated_source_singleton_tuple_has_trailing_comma",
+        "test_lambdify_generated_source_singleton_tuple_symbol_has_trailing_comma"
+    ],
+    "scikit-learn__scikit-learn-13135": [
+        "test_kbinsdiscretizer_kmeans_transform_idempotent_and_monotonic_edges",
+        "test_kbinsdiscretizer_kmeans_unsorted_bin_edges_no_error"
+    ],
+    "sympy__sympy-15599": [
+        "test_mod_integer_symbol_common_factor_reduces",
+        "test_mod_sympify_percent_integer_symbol_common_factor_reduces"
+    ],
+    "scikit-learn__scikit-learn-9288": [
+        "test_kmeans_cluster_centers_same_for_n_jobs_1_and_2",
+        "test_kmeans_inertia_same_for_n_jobs_1_and_2",
+        "test_kmeans_labels_same_for_n_jobs_1_and_2"
+    ],
+    "astropy__astropy-7606": [
+        "test_unrecognized_unit_eq_none_does_not_raise_in_bool_context",
+        "test_unrecognized_unit_eq_none_is_false",
+        "test_unrecognized_unit_neq_none_is_true"
+    ],
+    "matplotlib__matplotlib-26291": [
+        "test_inset_axes_draw_then_savefig_tight_no_error",
+        "test_inset_axes_locator_callable_returns_bbox_with_renderer_none",
+        "test_inset_axes_smoke_savefig_tight_no_error"
+    ],
+    "django__django-16493": [
+        "test_deconstruct_includes_storage_callable_when_callable_returns_default_storage"
+    ],
+    "astropy__astropy-7336": [
+        "test_quantity_input_allows_init_return_annotation_none",
+        "test_quantity_input_allows_init_returning_none_explicitly",
+        "test_quantity_input_function_returning_none_with_none_annotation_ok"
+    ],
+    "pytest-dev__pytest-5631": [
+        "test_num_mock_patch_args_accepts_array_like_new_without_valueerror"
+    ],
+    "sympy__sympy-20438": [
+        "test_issue_issubset_productset_finiteset_against_wrong_tuples",
+        "test_issue_issubset_productset_finiteset_negative_case"
+    ],
+    "astropy__astropy-14539": [
+        "test_fitsdiff_detects_real_difference_in_vla_payload",
+        "test_fitsdiff_same_file_with_vla_is_identical",
+        "test_fitsdiff_two_identical_files_with_vla_is_identical"
+    ],
+    "matplotlib__matplotlib-14623": [
+        "test_invert_xaxis_with_limits_log",
+        "test_invert_yaxis_with_limits_linear_and_log",
+        "test_log_inversion_persists_after_autoscale"
+    ],
+    "django__django-11206": [
+        "test_utils_numberformat_decimal_pos_for_tiny_values_multiple_places"
+    ],
+    "django__django-16595": [
+        "test_optimizer_keeps_alterfield_on_different_fields",
+        "test_optimizer_reduces_multiple_alterfield_same_field_to_last"
+    ],
+    "pytest-dev__pytest-7490": [
+        "test_dynamic_xfail_added_inside_test_does_not_hide_unexpected_pass",
+        "test_dynamic_xfail_marker_added_inside_test_ignores_assertion_failure"
+    ],
+    "pytest-dev__pytest-5787": [
+        "test_base_report_toterminal_handles_reconstituted_longrepr",
+        "test_report_json_roundtrip_preserves_chained_exceptions_with_from",
+        "test_report_json_roundtrip_preserves_chained_exceptions_without_from"
+    ],
+    "matplotlib__matplotlib-24970": [
+        "test_cmap_empty_uint8_emits_no_deprecationwarning",
+        "test_cmap_uint8_out_of_range_clipping_no_deprecationwarning"
+    ],
+    "django__django-13837": [
+        "test_get_child_arguments_detects_python_m_other_package",
+        "test_get_child_arguments_still_handles_python_m_django"
+    ],
+    "scikit-learn__scikit-learn-10844": [
+        "test_fowlkes_mallows_no_overflow_warning_and_finite"
+    ],
+    "sympy__sympy-18763": [
+        "test_latex_subs_parentheses_in_mul_repro",
+        "test_latex_subs_parentheses_in_pow_base"
+    ],
+    "pydata__xarray-2905": [
+        "test_object_setitem_with_values_attribute_and_duckarray_values_preserves_object",
+        "test_object_setitem_with_values_attribute_preserves_object"
+    ],
+    "sphinx-doc__sphinx-9281": [
+        "test_object_description_enum_member_is_pretty",
+        "test_object_description_intenum_member_is_pretty",
+        "test_object_description_non_enum_still_uses_repr_style_for_custom_object",
+        "test_stringify_signature_enum_default_value_is_pretty"
+    ],
+    "sympy__sympy-16597": [
+        "test_even_implies_finite_and_integer_consistency",
+        "test_even_implies_finite_for_symbol",
+        "test_odd_implies_finite_for_symbol"
+    ],
+    "sympy__sympy-14976": [
+        "test_lambdify_mpmath_rational_high_precision_evaluation",
+        "test_lambdify_mpmath_wraps_rationals_in_generated_source"
+    ],
+    "scikit-learn__scikit-learn-12585": [
+        "test_clone_accepts_estimator_class_as_parameter_value",
+        "test_clone_preserves_mix_of_estimator_instance_and_class_parameters"
+    ],
+    "django__django-14373": [
+        "test_Y_in_combined_format_string",
+        "test_Y_zero_padded_for_year_lt_1000_date",
+        "test_Y_zero_padded_for_year_lt_1000_datetime"
+    ],
+    "django__django-13513": [
+        "test_technical_500_prefers_explicit_cause_over_context"
+    ],
+    "matplotlib__matplotlib-20676": [
+        "test_spanselector_interactive_does_not_expand_xlimits_to_zero",
+        "test_spanselector_interactive_does_not_expand_ylimits_to_zero_for_vertical"
+    ],
+    "pydata__xarray-6992": [
+        "test_dataset_data_vars_iter_len_consistent_when_coord_names_exceed_variables",
+        "test_dataset_repr_stable_with_data_vars_present_after_index_roundtrip"
+    ],
+    "sympy__sympy-16766": [
+        "test_pycode_prints_indexed_multiple_indices",
+        "test_pycode_prints_indexed_single_index",
+        "test_pycode_prints_indexed_with_symbolic_index_expression",
+        "test_pythoncodeprinter_supports_print_indexed_method"
+    ],
+    "django__django-15103": [
+        "test_defaultfilter_json_script_allows_omitting_element_id",
+        "test_template_filter_usage_in_template_allows_omitting_element_id",
+        "test_utils_html_json_script_allows_omitting_element_id",
+        "test_utils_html_json_script_with_none_element_id_omits_id_attribute"
+    ],
+    "sympy__sympy-22080": [
+        "test_lambdify_default_modules_still_works_for_mod"
+    ],
+    "scikit-learn__scikit-learn-26323": [
+        "test_column_transformer_set_output_configures_remainder_estimator_on_original_object",
+        "test_column_transformer_set_output_remainder_estimator_matches_explicit_transformer"
+    ],
+    "pytest-dev__pytest-7521": [
+        "test_capfd_does_not_translate_carriage_return_to_newline",
+        "test_capfd_preserves_carriage_return_in_middle_of_stream"
+    ],
+    "scikit-learn__scikit-learn-25232": [
+        "test_iterative_imputer_allows_nan_fill_value",
+        "test_iterative_imputer_constant_initial_imputation_uses_fill_value",
+        "test_iterative_imputer_has_fill_value_param_and_get_params"
+    ],
+    "scikit-learn__scikit-learn-13328": [
+        "test_huber_regressor_accepts_boolean_X_fit_intercept_false",
+        "test_huber_regressor_accepts_boolean_X_fit_intercept_true",
+        "test_huber_regressor_boolean_X_predict_matches_float_cast",
+        "test_huber_regressor_boolean_X_with_sample_weight"
+    ],
+    "sympy__sympy-18698": [
+        "test_sqf_list_groups_equal_multiplicities_symbolic_input"
+    ],
+    "pydata__xarray-6744": [
+        "test_center_true_iteration_matches_rolling_construct_with_min_periods",
+        "test_center_true_iteration_matches_rolling_mean_1d"
+    ],
+    "django__django-14493": [
+        "test_post_process_with_zero_passes_and_no_adjustable_files_does_not_crash",
+        "test_post_process_with_zero_passes_does_not_crash_and_yields_results"
+    ],
+    "sympy__sympy-15345": [
+        "test_mathematica_code_max_multiple_args_brackets_commas"
+    ],
+    "sympy__sympy-21596": [
+        "test_imageset_intersect_reals_no_false_positives_for_other_integers"
+    ],
+    "django__django-16819": [
+        "test_optimizer_elides_back_to_back_add_remove_index_same_name"
+    ],
+    "sphinx-doc__sphinx-8475": [
+        "test_linkcheck_fallback_to_get_on_too_many_redirects",
+        "test_linkcheck_still_falls_back_to_get_on_httperror_from_head"
+    ],
+    "sphinx-doc__sphinx-9711": [
+        "test_needs_extensions_accepts_two_digit_minor_version",
+        "test_needs_extensions_allows_equal_version",
+        "test_needs_extensions_none_is_noop",
+        "test_needs_extensions_rejects_too_old_version",
+        "test_needs_extensions_unknown_version_is_rejected"
+    ],
+    "django__django-16560": [
+        "test_uniqueconstraint_validationerror_code_can_be_customized_for_expressions_path"
+    ],
+    "django__django-15863": [
+        "test_floatformat_decimal_does_not_drop_precision_many_places",
+        "test_template_filter_floatformat_decimal_does_not_drop_precision"
+    ],
+    "django__django-15499": [
+        "test_optimize_create_model_plus_alter_model_managers_to_single_create_model",
+        "test_optimize_create_model_plus_alter_model_options_plus_managers_to_single_create_model"
+    ],
+    "django__django-16429": [
+        "test_timesince_aware_datetime_long_interval_no_typeerror",
+        "test_timesince_aware_datetime_long_interval_non_utc_timezone",
+        "test_timesince_aware_datetime_long_interval_with_explicit_now"
+    ],
+    "django__django-16527": [
+        "test_show_save_as_new_requires_add_permission"
+    ],
+    "matplotlib__matplotlib-24627": [
+        "test_axes_cla_unsets_axes_on_deparented_line",
+        "test_clear_matches_remove_for_axes_and_figure_attributes"
+    ],
+    "matplotlib__matplotlib-20859": [
+        "test_subfigure_legend_collects_from_subfigure_axes_only",
+        "test_subfigure_legend_no_error_and_attached"
+    ],
+    "django__django-11099": [
+        "test_ascii_username_validator_rejects_trailing_newline",
+        "test_unicode_username_validator_rejects_trailing_newline"
+    ],
+    "django__django-11333": [
+        "test_get_resolver_none_uses_settings_root_urlconf_and_singleton",
+        "test_get_resolver_with_explicit_non_default_urlconf_still_distinct"
+    ],
+    "django__django-14608": [
+        "test_custom_errorlist_receives_nonform_css_class",
+        "test_non_form_errors_empty_still_has_nonform_css_class",
+        "test_non_form_errors_errorlist_has_nonform_css_class"
+    ],
+    "scikit-learn__scikit-learn-25973": [
+        "test_sfs_accepts_iterable_splits_from_cv_split_generator"
+    ],
+    "scikit-learn__scikit-learn-12682": [
+        "test_sparsecoder_other_algorithms_unchanged_by_transform_max_iter"
+    ],
+    "pylint-dev__pylint-7277": [
+        "test_modify_sys_path_does_not_remove_non_default_first_entry"
+    ],
+    "scikit-learn__scikit-learn-15100": [
+        "test_strip_accents_unicode_removes_multiple_combining_marks_in_nfkd",
+        "test_strip_accents_unicode_strips_combining_marks_even_if_nfkd"
+    ],
+    "sympy__sympy-21930": [
+        "test_secondquant_latex_double_superscript_dagger_higher_power",
+        "test_secondquant_latex_double_superscript_dagger_pow",
+        "test_secondquant_latex_double_superscript_dagger_pow_no_extra_grouping_for_single_power",
+        "test_secondquant_latex_double_superscript_dagger_with_additional_subscript"
+    ],
+    "django__django-15104": [
+        "test_autodetector_does_not_crash_when_fk_deconstruct_omits_to_kwarg"
+    ],
+    "django__django-14349": [
+        "test_urlvalidator_rejects_lf_in_ipv6_url",
+        "test_urlvalidator_rejects_lf_in_path_not_silently_stripped",
+        "test_urlvalidator_rejects_trailing_cr_in_url",
+        "test_urlvalidator_rejects_trailing_lf_in_url",
+        "test_urlvalidator_rejects_trailing_tab_in_url"
+    ],
+    "django__django-16502": [
+        "test_head_does_not_leave_bytes_on_socket"
+    ],
+    "pytest-dev__pytest-7571": [
+        "test_caplog_set_level_restores_between_tests"
+    ],
+    "django__django-14765": [
+        "test_projectstate_init_real_apps_requires_set"
+    ],
+    "sympy__sympy-12419": [
+        "test_sum_of_elements_of_identity_numeric_sizes"
+    ],
+    "django__django-16569": [
+        "test_empty_form_can_delete_extra_false_index_none_does_not_crash"
+    ],
+    "astropy__astropy-14309": [
+        "test_identify_format_write_table_non_fits_extension_no_args_no_indexerror",
+        "test_is_fits_identifier_handles_empty_args_and_no_fits_extension"
+    ],
+    "django__django-11133": [
+        "test_httpresponse_accepts_memoryview_content",
+        "test_httpresponse_accepts_memoryview_content_with_slices",
+        "test_httpresponse_content_assignment_memoryview"
+    ],
+    "matplotlib__matplotlib-25775": [
+        "test_set_antialiased_does_not_change_rcparams_global_state",
+        "test_text_has_get_set_antialiased"
+    ],
+    "sympy__sympy-13647": [
+        "test_col_insert_negative_and_out_of_range_pos_clamping",
+        "test_col_insert_preserves_right_block_entries",
+        "test_col_insert_regression_identity_shift"
+    ],
+    "django__django-11749": [
+        "test_call_command_accepts_kwargs_for_required_mutually_exclusive_group",
+        "test_call_command_accepts_other_member_via_kwargs_for_required_group",
+        "test_call_command_rejects_both_members_via_kwargs"
+    ],
+    "pydata__xarray-6461": [
+        "test_where_keep_attrs_true_scalar_x"
+    ],
+    "sympy__sympy-13480": [
+        "test_coth_eval_additive_ipi_branch_does_not_crash",
+        "test_subs_coth_log_tan_integer_symbolic_no_eval_error",
+        "test_subs_coth_log_tan_integral_regression_no_nameerror",
+        "test_subs_does_not_mutate_expression_and_is_repeatable"
+    ],
+    "sympy__sympy-14531": [
+        "test_python_printer_defines_symbols_from_nested_relational_expressions",
+        "test_python_printer_defines_symbols_from_relational_expressions",
+        "test_sstr_settings_respected_in_limit_subexpressions",
+        "test_sstr_settings_respected_in_relational_subexpressions"
+    ],
+    "astropy__astropy-12907": [
+        "test_separability_matrix_double_nested_compound_associativity",
+        "test_separability_matrix_nested_compound_last_two_outputs_are_separable",
+        "test_separability_matrix_nested_compound_with_and_matches_unnested"
+    ],
+    "matplotlib__matplotlib-22871": [
+        "test_concise_date_formatter_shows_year_in_offset_when_january_not_in_range"
+    ],
+    "django__django-14534": [
+        "test_boundwidget_id_for_label_respects_subwidget_attrs_id_with_custom_auto_id"
+    ],
+    "django__django-11095": [
+        "test_get_inlines_hook_exists_on_modeladmin"
+    ],
+    "django__django-12039": [
+        "test_indexcolumns_opclass_ascending_has_no_trailing_space"
+    ],
+    "sympy__sympy-15017": [
+        "test_len_rank0_dense_array_explicit_shape",
+        "test_len_rank0_dense_array_scalar_construction"
+    ],
+    "scikit-learn__scikit-learn-14629": [
+        "test_cross_val_predict_predict_proba_multioutputclassifier_matches_predict_shape",
+        "test_cross_val_predict_predict_proba_multioutputclassifier_no_attributeerror"
+    ],
+    "astropy__astropy-14096": [
+        "test_subclass_property_missing_attr_message_mentions_missing_attr"
+    ],
+    "sympy__sympy-24539": [
+        "test_polyelement_as_expr_accepts_custom_symbols",
+        "test_polyelement_as_expr_with_non_symbol_expressions"
+    ],
+    "django__django-13449": [
+        "test_lag_decimalfield_window_does_not_crash_and_returns_decimal",
+        "test_lag_decimalfield_window_sql_cast_wraps_over_clause"
+    ],
+    "sympy__sympy-20801": [
+        "test_float_bool_equality_symmetry",
+        "test_python_bool_comparison_consistency"
+    ],
+    "matplotlib__matplotlib-26342": [
+        "test_contourset_has_set_paths_and_replaces_paths_object",
+        "test_contourset_set_paths_updates_oldstyle_collections_paths"
+    ],
+    "pytest-dev__pytest-10081": [
+        "test_skip_class_with_pdb_does_not_execute_teardown"
+    ],
+    "pytest-dev__pytest-10356": [
+        "test_get_unpacked_marks_does_not_invent_marks_when_no_pytestmark_present",
+        "test_get_unpacked_marks_merges_pytestmark_across_multiple_inheritance_mro"
+    ],
+    "django__django-13820": [
+        "test_load_disk_allows_non_namespace_package_without___file__"
+    ],
+    "django__django-14787": [
+        "test_method_decorator_preserves_assignments_with_multiple_decorators",
+        "test_method_decorator_preserves_function_metadata_for_inner_wraps"
+    ],
+    "matplotlib__matplotlib-26113": [
+        "test_hexbin_mincnt_consistent_with_and_without_C",
+        "test_hexbin_mincnt_with_C_inclusive_threshold"
+    ],
+    "django__django-16255": [
+        "test_callable_lastmod_with_no_items_returns_none"
+    ],
+    "django__django-13401": [
+        "test_abstract_base_field_not_equal_across_concrete_subclasses"
+    ],
+    "psf__requests-1142": [
+        "test_head_request_behavior_unchanged_no_content_length_by_default",
+        "test_prepared_get_has_no_content_length_header_by_default"
+    ],
+    "django__django-15851": [
+        "test_parameters_are_before_dbname",
+        "test_parameters_are_before_default_dbname_postgres"
+    ],
+    "django__django-13809": [
+        "test_core_runserver_accepts_skip_checks_option",
+        "test_staticfiles_runserver_accepts_skip_checks_option",
+        "test_staticfiles_runserver_default_skip_checks_false"
+    ],
+    "astropy__astropy-7166": [
+        "test_inherit_docstrings_inherits_property_docstring",
+        "test_inherit_docstrings_property_mro_resolution_multiple_inheritance"
+    ],
+    "django__django-11603": [
+        "test_avg_allow_distinct_attribute_true",
+        "test_avg_distinct_is_accepted_and_in_repr_options",
+        "test_sum_allow_distinct_attribute_true",
+        "test_sum_distinct_is_accepted_and_in_repr_options"
+    ],
+    "sympy__sympy-20154": [
+        "test_partitions_generator_yields_independent_dicts_on_the_fly",
+        "test_partitions_list_returns_distinct_dict_objects",
+        "test_partitions_mutation_does_not_affect_others"
+    ],
+    "django__django-13821": [
+        "test_check_sqlite_version_rejects_3_8_7"
+    ],
+    "django__django-15569": [
+        "test_unregister_lookup_clears_cache_for_subclasses",
+        "test_unregister_lookup_clears_get_lookups_cache"
+    ],
+    "sympy__sympy-18211": [
+        "test_eq_as_set_conditionset_is_equivalent_to_expected_object",
+        "test_eq_as_set_returns_conditionset_for_notimplemented_solveset_case"
+    ],
+    "scikit-learn__scikit-learn-13779": [
+        "test_voting_classifier_fit_with_sample_weight_after_setting_estimator_to_none",
+        "test_voting_regressor_fit_with_sample_weight_after_setting_estimator_to_none"
+    ],
+    "sympy__sympy-19346": [
+        "test_srepr_nested_containers_set_and_dict",
+        "test_srepr_prints_dict_keys_and_values_with_srepr",
+        "test_srepr_prints_set_elements_with_srepr"
+    ],
+    "scikit-learn__scikit-learn-25102": [
+        "test_column_order_and_feature_names_unchanged_when_preserving_dtypes",
+        "test_select_k_best_preserves_input_dtypes_in_pandas_output"
+    ],
+    "sympy__sympy-23950": [
+        "test_contains_as_set_is_not_contains_and_is_setlike"
+    ],
+    "astropy__astropy-13977": [
+        "test_quantity_left_incompatible_unit_returns_notimplemented_allows_reflected"
+    ],
+    "sympy__sympy-15349": [
+        "test_quaternion_to_rotation_matrix_x_axis_sign"
+    ],
+    "scikit-learn__scikit-learn-13439": [
+        "test_pipeline_has_len_and_matches_steps_length",
+        "test_pipeline_len_updates_after_setting_steps",
+        "test_pipeline_slice_len_roundtrip",
+        "test_pipeline_slice_to_last_excludes_last_step"
+    ],
+    "django__django-11820": [
+        "test_related_fk_pk_lookup_in_ordering_is_valid",
+        "test_related_o2o_pk_lookup_in_ordering_is_valid"
+    ],
+    "django__django-14539": [
+        "test_urlize_handles_html_escaped_gt_and_trailing_punctuation",
+        "test_urlize_handles_html_escaped_lt_and_trailing_punctuation"
+    ],
+    "sympy__sympy-19040": [
+        "test_factor_extension_list_does_not_drop_independent_factor",
+        "test_factor_extension_list_preserves_multiple_factors"
+    ],
+    "django__django-9296": [
+        "test_paginator_is_iterable_and_yields_pages",
+        "test_paginator_iter_is_repeatable_and_does_not_consume_state",
+        "test_paginator_iter_matches_page_range"
+    ],
+    "astropy__astropy-14369": [
+        "test_cds_parse_composite_units_order_division",
+        "test_table_read_ascii_cds_parentheses_equivalence",
+        "test_table_read_ascii_cds_preserves_composite_units"
+    ],
+    "django__django-14915": [
+        "test_modelchoiceiteratorvalue_dict_membership_matches_underlying_value",
+        "test_modelchoiceiteratorvalue_hash_and_equality_with_string_like_pk",
+        "test_modelchoiceiteratorvalue_hash_equal_for_equal_values",
+        "test_modelchoiceiteratorvalue_is_hashable_and_can_be_dict_key",
+        "test_modelchoiceiteratorvalue_set_membership_with_int",
+        "test_modelchoiceiteratorvalue_works_as_dict_key_in_create_option_like_code"
+    ],
+    "scikit-learn__scikit-learn-12973": [
+        "test_lassolarsic_fit_copy_x_false_overrides_init_true",
+        "test_lassolarsic_fit_copy_x_true_forces_no_mutation"
+    ],
+    "sympy__sympy-23824": [
+        "test_kahane_simplify_on_sum_preserves_each_term_order",
+        "test_kahane_simplify_preserves_order_of_leading_free_gammas_basic",
+        "test_kahane_simplify_preserves_order_of_multiple_leading_free_gammas"
+    ],
+    "django__django-10973": [
+        "test_runshell_db_no_password_does_not_set_pgpassword",
+        "test_runshell_db_uses_subprocess_run_with_env_pgpassword"
+    ],
+    "django__django-17087": [
+        "test_serialize_nested_class_method_as_field_default_uses_qualname"
+    ],
+    "psf__requests-2317": [
+        "test_session_request_accepts_bytes_method",
+        "test_session_request_accepts_bytes_method_with_whitespace",
+        "test_session_request_bytes_method_plain_assert"
+    ],
+    "sympy__sympy-20590": [
+        "test_basic_instance_still_has_no_dict",
+        "test_dummy_has_no_instance_dict",
+        "test_str_atom_has_no_instance_dict",
+        "test_symbol_dir_does_not_show_dict",
+        "test_symbol_has_no_instance_dict",
+        "test_symbol_setting_new_attribute_fails_without_dict"
+    ],
+    "django__django-12308": [
+        "test_display_for_field_jsonfield_uses_prepare_value_valid_json"
+    ],
+    "django__django-13410": [
+        "test_lock_exclusive_nonblocking_returns_false_when_already_locked",
+        "test_lock_exclusive_nonblocking_returns_true_on_success",
+        "test_unlock_returns_true_even_if_not_previously_locked"
+    ],
+    "matplotlib__matplotlib-24870": [
+        "test_contour_bool_autodetect_levels_default"
+    ]
+}

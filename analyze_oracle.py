@@ -4,7 +4,7 @@ import re
 from collections import defaultdict
 
 # Use the same results directory as before (adjust if user moved things)
-RESULTS_DIR = r"c:\Users\naolt\Downloads\class projects\dkang\results\result"
+RESULTS_DIR = r"c:\Users\naolt\Downloads\class projects\dkang\results\run_result"
 # Also checking the 'results' dir the user mentioned in a diff, just in case
 RESULTS_DIR_ALT = r"c:\Users\naolt\Downloads\class projects\dkang\results\results"
 
