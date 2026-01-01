@@ -1,0 +1,6331 @@
+{
+    "sympy__sympy-19954": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_sylow_subgroup_dihedral_18_power_of_two",
+                "test_sylow_subgroup_dihedral_50_power_of_two",
+                "test_minimal_blocks_do_not_raise_for_dihedral_groups"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13821": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_sqlite_version_minimum_supported_succeeds"
+            ],
+            "unresolved": [
+                "test_sqlite_version_below_minimum_raises"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-19783": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dagger_identity_right_simplification",
+                "test_no_residual_identity_in_expression"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11333": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_get_resolver_same_instance_for_none_and_root",
+                "test_get_resolver_cache_consistency_with_set_urlconf"
+            ]
+        }
+    },
+    "django__django-11211": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_prefetch_related_populates_gfk_with_uuid_pk",
+                "test_cached_foo_does_not_trigger_extra_queries"
+            ]
+        }
+    },
+    "django__django-16560": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_check_constraint_accepts_violation_error_code_and_uses_it"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11299": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_check_constraint_columns_are_not_qualified_with_table_name"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-12481": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_non_disjoint_cycles_identity",
+                "test_non_disjoint_cycles_general_composition",
+                "test_non_disjoint_cycles_with_size_and_repetition"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pylint-dev__pylint-6903": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_cpu_count_not_zero_when_query_returns_zero"
+            ],
+            "unresolved": [
+                "test_cpu_count_respects_actual_cpu_when_query_large"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14539": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_utils_html_urlize_handles_html_entity",
+                "test_template_filter_urlize_autoescape_true",
+                "test_template_filter_urlize_autoescape_false"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "psf__requests-1724": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_unicode_method_file_upload",
+                "test_unicode_method_lowercase_get"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16612": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_redirect_retains_single_query_param",
+                "test_redirect_retains_multiple_query_params"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-15976": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_presentation_mathml_in_expression"
+            ],
+            "unresolved": [
+                "test_presentation_symbol_single_digit",
+                "test_presentation_symbol_multi_digit"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13343": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_non_callable_storage_is_preserved_as_instance_in_deconstruct"
+            ],
+            "unresolved": [
+                "test_callable_storage_is_not_evaluated_and_preserved_in_deconstruct"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-14496": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_optics_accepts_float_min_samples",
+                "test_optics_float_min_samples_matches_int_equivalent"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13449": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_lag_on_decimal_field_executes_correctly",
+                "test_sql_contains_over_after_lag"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-25775": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_text_antialiased_get_set"
+            ],
+            "unresolved": [
+                "test_text_antialias_forwarded_to_gc"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-13124": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_stratified_kfold_shuffle_random_state_effect",
+                "test_stratified_kfold_shuffle_deterministic_given_random_state",
+                "test_stratified_kfold_no_shuffle_ignores_random_state"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15278": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_add_nullable_one_to_one_field"
+            ],
+            "missing": []
+        }
+    },
+    "pylint-dev__pylint-7080": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_ignore_paths_honoured_with_recursive"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11551": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_instance_only_field_is_accepted",
+                "test_instance_only_many_to_many_still_errors_with_e109"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16116": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_makemigrations_check_does_not_write_files"
+            ]
+        }
+    },
+    "sympy__sympy-22456": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_string_argument_invariance",
+                "test_string_subclass_invariance",
+                "test_quoted_and_comment_invariance"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11490": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_union_columns_change",
+                "test_intersection_columns_change",
+                "test_difference_columns_change"
+            ]
+        }
+    },
+    "pytest-dev__pytest-7205": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_show_fixture_action_no_byteswarning_on_setup",
+                "test_show_fixture_action_no_byteswarning_on_teardown"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13089": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_cull_operation_when_no_threshold_row"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-25931": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_no_feature_name_warning_with_non_auto_contamination",
+                "test_no_feature_name_warning_with_auto_contamination"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-14976": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_lambdify_mpmath_rational_precision"
+            ],
+            "unresolved": [
+                "test_lambdify_mpmath_rational_source_contains_mpf"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15561": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_field_should_not_be_altered_when_only_choices_change",
+                "test_alter_field_choices_generates_no_sql"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16901": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_xor_parity_identical_conditions",
+                "test_xor_parity_varied_conditions"
+            ]
+        }
+    },
+    "django__django-16333": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_usercreationform_saves_many_to_many_data"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-12907": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_separability_matrix_for_nested_parallel_compound"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-17084": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_aggregate_over_window_annotation",
+                "test_aggregate_over_coalesced_window_annotation"
+            ]
+        }
+    },
+    "sphinx-doc__sphinx-7454": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_none_is_linked_in_signature_mode"
+            ],
+            "missing": [
+                "test_none_is_linked_in_description_mode"
+            ]
+        }
+    },
+    "django__django-15382": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_negated_exists_with_empty_queryset_keeps_other_predicates",
+                "test_exists_with_empty_queryset_short_circuits_to_empty_result_set"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-18199": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_nthroot_mod_specific_regression",
+                "test_nthroot_mod_zero_for_various_primes"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-12308": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_jsonfield_dict_is_rendered_as_valid_json",
+                "test_jsonfield_list_is_rendered_as_valid_json",
+                "test_empty_jsonfield_value_uses_empty_display"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16662": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_module_imports_precede_from_imports",
+                "test_each_import_group_is_alphabetically_sorted"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11603": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_sum_and_avg_accept_distinct_param",
+                "test_sum_and_avg_distinct_results"
+            ]
+        }
+    },
+    "sympy__sympy-13551": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_product_n_plus_half_powerk_specific_examples",
+                "test_product_n_plus_half_powerk_several_values"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-19346": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_srepr_set",
+                "test_srepr_dict"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-26194": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_roc_curve_thresholds_probability_estimates_within_unit_interval"
+            ],
+            "unresolved": [
+                "test_roc_curve_thresholds_non_probability_scores_still_valid"
+            ],
+            "missing": []
+        }
+    },
+    "psf__requests-2931": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_prepare_request_with_non_ascii_binary_payload",
+                "test_session_prepare_with_non_ascii_binary_payload"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14855": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_get_admin_url_respects_admin_site_namespace"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-8707": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_header_fromstring_accepts_bytes",
+                "test_card_fromstring_accepts_bytes",
+                "test_header_roundtrip_after_bytes_parse"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-18698": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_sqf_list_group_factors_with_same_multiplicity",
+                "test_sqf_list_originally_correct_case_remains_correct"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-7985": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_linkcheck_local_links_checked"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-24443": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dihedral_identity_homomorphism",
+                "test_dihedral_automorphism_inverting_rotation"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-14053": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_export_text_single_feature_classifier",
+                "test_export_text_single_feature_classifier_with_weights",
+                "test_export_text_single_feature_regressor",
+                "test_export_text_single_feature_length_mismatch_raises"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14752": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_autocompletejsonview_has_serialize_result",
+                "test_overriding_serialize_result_changes_output"
+            ]
+        }
+    },
+    "sympy__sympy-23262": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_lambdify_multi_element_tuple_source_and_return"
+            ],
+            "unresolved": [
+                "test_lambdify_singleton_tuple_source_and_return"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-16450": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_posify_preserves_finite",
+                "test_posify_preserves_integer_and_finite",
+                "test_posify_preserves_rational_and_finite"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14672": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_many_to_manyrel_with_list_through_fields_is_hashable"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15022": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_single_join_for_multiple_search_terms"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-24066": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_collect_factor_exponent_is_dimensionless",
+                "test_collect_factor_addition_with_exp"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pallets__flask-5014": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_blueprint_name_must_not_be_empty",
+                "test_blueprint_with_valid_name_still_functions"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14140": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_deconstruct_single_non_tuple_child",
+                "test_deconstruct_combined_with_keyword_q"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11133": {
+        "n_resolved_tests": 5,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_memoryview_initial_content",
+                "test_memoryview_property_assignment",
+                "test_memoryview_iterable_content",
+                "test_make_bytes_handles_memoryview",
+                "test_streaming_response_memoryview"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15098": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_lowercase_script_region_locale",
+                "test_canonical_case_script_region_locale"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14155": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_resolvermatch_partial_repr_underlying_function",
+                "test_resolvermatch_regular_function_repr_unchanged"
+            ]
+        }
+    },
+    "django__django-14771": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_child_arguments_include_xoptions_utf8",
+                "test_child_arguments_still_include_warning_options",
+                "test_child_arguments_do_not_add_xoptions_when_none_given"
+            ]
+        }
+    },
+    "django__django-13128": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_subtraction_in_annotation_without_wrapper",
+                "test_subtraction_plus_duration_without_wrapper",
+                "test_filter_on_subtraction_without_wrapper"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-13989": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_hist_density_respects_range_auto_bins",
+                "test_hist_density_respects_range_numeric_bins",
+                "test_hist_range_unchanged_when_density_false"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11815": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_enum_serializer_uses_name_not_value",
+                "test_enum_serializer_produces_round_trip_representation"
+            ]
+        }
+    },
+    "pydata__xarray-3677": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dataset_merge_with_dataarray_scalar",
+                "test_dataset_merge_with_dataarray_and_dims"
+            ],
+            "unresolved": [
+                "test_dataset_merge_with_overwrite_vars_from_dataarray"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14011": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_default_server_is_threaded"
+            ],
+            "unresolved": [
+                "test_no_connection_leak_after_multiple_runs"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13820": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_loader_accepts_package_without_file_attribute"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-24870": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_contour_bool_autodetect_one_level",
+                "test_contour_bool_respects_user_levels",
+                "test_contour_numeric_default_unchanged"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-19040": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_factor_extension_preserves_all_factors",
+                "test_factor_extension_true_behaves_like_default",
+                "test_factor_extension_multiple_factors"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-16597": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_even_implies_finite_attribute"
+            ],
+            "unresolved": [
+                "test_finite_inference_via_ask",
+                "test_even_and_infinite_mutually_exclusive"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14349": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 4,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_rejects_urls_containing_newline",
+                "test_rejects_urls_containing_carriage_return",
+                "test_rejects_urls_containing_tab",
+                "test_accepts_clean_urls"
+            ]
+        }
+    },
+    "django__django-13933": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_invalid_pk_includes_value",
+                "test_invalid_slug_with_to_field_name_includes_value",
+                "test_invalid_model_instance_includes_pk_value"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-4094": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_to_stacked_unstacked_all_single_dim_variables_roundtrip",
+                "test_to_stacked_unstacked_single_variable_single_dim"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8548": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_autodoc_inherited_data_attribute_is_emitted"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-4629": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_merge_override_attrs_no_side_effects_dataset",
+                "test_merge_override_attrs_no_side_effects_dataarray"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14034": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_missing_required_subfield_makes_form_invalid",
+                "test_only_required_subfield_filled_is_valid",
+                "test_optional_filled_required_missing_is_invalid"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-14711": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_vector_add_scalar_zero_left_right",
+                "test_vector_sum_with_leading_zero"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-12419": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_default_referrer_policy_header_added",
+                "test_header_added_on_secure_request_too",
+                "test_security_check_passes_with_default_policy",
+                "test_global_default_is_same_origin"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9281": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_object_description_enum_member",
+                "test_object_description_intenum_member"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15128": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_or_combination_no_alias_assertion_error"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-23412": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_patch_dash_offset_respected"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-11618": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_distance_mixed_dimensions",
+                "test_distance_same_dimensions_still_correct"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-9296": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_paginator_is_iterable",
+                "test_paginator_iter_empty_object_list"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pylint-dev__pylint-4604": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_module_import_used_in_type_comment"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-20438": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_productset_finiteset_subset_behavior",
+                "test_eq_simplify_no_error_and_result"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13670": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_two_digit_year_for_various_centuries"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-10051": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_caplog_get_records_and_clear_consistency"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16256": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 6,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_acreate_reverse_fk",
+                "test_aget_or_create_reverse_fk",
+                "test_aupdate_or_create_reverse_fk",
+                "test_acreate_m2m",
+                "test_aget_or_create_m2m",
+                "test_aupdate_or_create_m2m"
+            ]
+        }
+    },
+    "django__django-12965": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_delete_all_uses_plain_delete"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14351": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_or_in_count_executes",
+                "test_subquery_selects_single_column"
+            ]
+        }
+    },
+    "scikit-learn__scikit-learn-25102": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dtype_preservation_with_set_output",
+                "test_dtype_preservation_with_global_config"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-10908": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_get_feature_names_with_provided_vocabulary",
+                "test_get_feature_names_without_vocabulary_raises_before_fit"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11292": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 4,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_skip_checks_cli_option",
+                "test_skip_checks_default_value",
+                "test_execute_skips_system_checks_when_flag_set",
+                "test_execute_runs_system_checks_by_default"
+            ]
+        }
+    },
+    "django__django-12663": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_simplelazyobject_can_be_used_after_subquery_annotation"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13344": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_first_middleware_gets_real_response"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15277": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_value_resolve_output_field_no_max_length_validator",
+                "test_value_resolve_output_field_clean_does_not_error",
+                "test_charfield_without_max_length_has_no_maxlengthvalidator",
+                "test_charfield_with_max_length_validator_presence_and_enforcement"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-12273": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_reset_pk_creates_new_row_without_overwrite"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-12304": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_do_not_call_in_templates_attribute_present",
+                "test_enumeration_usage_inside_template",
+                "test_enumeration_member_renders_to_value"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15499": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_create_model_followed_by_alter_managers_is_collapsed",
+                "test_create_model_then_change_managers_is_collapsed",
+                "test_alter_managers_on_different_model_is_not_optimized_through"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15987": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_duplicate_dirs_detected_with_mixed_str_and_path"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-19637": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_kernS_no_space_parentheses"
+            ],
+            "unresolved": [
+                "test_kernS_negated_parentheses_preserved"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-10973": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_password_is_passed_via_pgpassword_env",
+                "test_no_password_does_not_set_pgpassword_env",
+                "test_sigint_handler_restoration"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-13439": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_pipeline_has_len_and_correct_value",
+                "test_pipeline_slice_using_len",
+                "test_pipeline_len_with_passthrough",
+                "test_pipeline_len_matches_named_steps"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-13236": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_futurewarning_on_init_with_structured_array",
+                "test_futurewarning_on_column_assignment"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-22914": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_pycode_supports_min_max_two_args",
+                "test_pycode_supports_min_max_multiple_args"
+            ],
+            "unresolved": [
+                "test_pycode_supports_min_max_in_complex_expression"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-4075": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_basic_boolean_weights_mean",
+                "test_boolean_weights_with_nan_and_skipna_true",
+                "test_boolean_weights_with_all_false"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11740": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_alter_uuidfield_to_foreignkey_creates_dependency"
+            ]
+        }
+    },
+    "django__django-15467": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_custom_empty_label_preserved_for_radio_fields",
+                "test_default_empty_label_unaffected"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-14983": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_repeated_kfold_repr_default",
+                "test_repeated_stratified_kfold_repr_default",
+                "test_repeated_kfold_repr_custom_parameters"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pydata__xarray-7233": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_coarsen_construct_preserves_nondim_coords_in_dataset"
+            ],
+            "unresolved": [
+                "test_coarsen_construct_preserves_nondim_coords_in_dataarray"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9711": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_extension_version_too_low"
+            ],
+            "missing": [
+                "test_extension_version_satisfied"
+            ]
+        }
+    },
+    "sympy__sympy-20916": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_pretty_matrix_contains_greek_subscript"
+            ],
+            "unresolved": [
+                "test_upretty_greek_subscript"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8056": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_multiple_params_use_param_true",
+                "test_multiple_params_use_param_false"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-11578": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_log_reg_scoring_path_uses_multinomial_probabilities"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-26342": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_contour_set_has_set_paths"
+            ],
+            "unresolved": [
+                "test_set_paths_replaces_paths_and_updates_datalim"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-13496": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_warm_start_argument_is_accepted",
+                "test_warm_start_adds_more_estimators"
+            ],
+            "unresolved": [
+                "test_warm_start_raises_if_n_estimators_not_increased"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16950": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_uuid_default_used_on_add_with_inline"
+            ]
+        }
+    },
+    "sympy__sympy-23413": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_hnf_row_removal_regression",
+                "test_hnf_preserves_row_count"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-15345": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_max_basic_printing",
+                "test_max_inside_other_function",
+                "test_max_multiple_occurrences"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8721": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_html_builder_still_writes_viewcode_pages",
+                "test_epub_builder_does_not_write_viewcode_pages_by_default"
+            ],
+            "missing": []
+        }
+    },
+    "psf__requests-1921": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_accept_encoding_header_removed_when_set_to_none",
+                "test_arbitrary_header_removed_when_set_to_none"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-25973": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_sfs_accepts_one_shot_cv_iterable",
+                "test_sfs_int_cv_still_works"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-7236": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-26291": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_locator_accepts_none_renderer",
+                "test_savefig_with_inset_axes"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pydata__xarray-3095": {
+        "n_resolved_tests": 8,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dataset_copy_deep_preserves_unicode",
+                "test_dataset_copy_shallow_preserves_unicode",
+                "test_dataarray_copy_default_preserves_unicode",
+                "test_dataarray_copy_deep_false_preserves_unicode",
+                "test_python_copy_dataset_preserves_unicode",
+                "test_python_deepcopy_dataset_preserves_unicode",
+                "test_python_copy_dataarray_preserves_unicode",
+                "test_python_deepcopy_dataarray_preserves_unicode"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13158": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_none_on_combined_queryset_returns_empty",
+                "test_none_does_not_mutate_original_queryset"
+            ]
+        }
+    },
+    "django__django-16938": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_serialize_with_custom_manager_and_select_related",
+                "test_serialize_with_prefetched_many_to_many_cache"
+            ]
+        }
+    },
+    "sympy__sympy-20801": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_float_zero_vs_boolean_false_symmetry",
+                "test_float_zero_still_equals_integer_zero",
+                "test_float_one_vs_boolean_true"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15957": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-23950": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_contains_as_set_not_self",
+                "test_piecewise_with_contains_condition"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11880": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_field_deepcopy_makes_independent_error_messages",
+                "test_form_instances_do_not_share_modified_error_messages"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13798": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_latex_custom_mul_symbol_thinspace",
+                "test_latex_custom_mul_symbol_arbitrary_string"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14404": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-7490": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dynamic_xfail_is_respected",
+                "test_regular_failure_still_fails"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16502": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_get_request_includes_body",
+                "test_head_request_excludes_body"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14493": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_post_process_with_zero_passes_does_not_crash"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15563": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_update_field_on_second_parent_through_child_queryset",
+                "test_filtered_update_only_affects_selected_children"
+            ]
+        }
+    },
+    "scikit-learn__scikit-learn-14894": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_sparse_svr_fit_with_zero_support_vectors"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-10449": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_autoclass_signature_has_no_return_annotation"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-14182": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_rst_writer_accepts_header_rows_in_init",
+                "test_table_write_with_header_rows",
+                "test_default_rst_write_still_works"
+            ],
+            "unresolved": [
+                "test_get_writer_with_header_rows"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-20428": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_clear_denoms_zero_poly_is_consistent"
+            ],
+            "unresolved": [
+                "test_zero_poly_supporting_methods_after_clear_denoms"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13837": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_run_as_other_package_module",
+                "test_run_as_other_package_module_with_warnoptions"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16819": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_add_then_remove_index_collapses",
+                "test_create_model_add_then_remove_index_folds_into_create",
+                "test_add_and_remove_different_indices_do_not_collapse"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-26113": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_hexbin_mincnt_consistency_with_and_without_C"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-14623": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_set_ylim_inverts_for_log_scale",
+                "test_set_ylim_inverts_for_linear_scale"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-21568": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_autodateformatter_removes_mathdefault",
+                "test_rendered_ticklabels_do_not_contain_mathdefault"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-12406": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_radioselect_required_foreign_key_has_no_blank_option",
+                "test_radioselect_optional_foreign_key_keeps_blank_option",
+                "test_plain_modelchoicefield_still_has_blank_option"
+            ]
+        }
+    },
+    "django__django-12713": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_custom_widget_overrides_raw_id_widget",
+                "test_custom_widget_overrides_filtered_select_multiple"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15127": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_level_tag_default_without_override",
+                "test_level_tag_updated_with_override_settings"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pydata__xarray-6938": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_swap_dims_dataset_does_not_mutate_original",
+                "test_swap_dims_dataarray_does_not_mutate_original"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-11510": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_source_read_replacement_included_file",
+                "test_source_read_event_called_for_included_file"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-14087": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_logistic_regression_cv_binary_refit_false",
+                "test_logistic_regression_cv_multiclass_refit_false"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-22865": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_colorbar_drawedges_no_extend_internal_dividers_only",
+                "test_colorbar_drawedges_extend_both_includes_extremity_dividers"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8593": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_meta_public_variable_autodoc"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13279": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_encode_uses_legacy_format_when_sha1",
+                "test_encode_uses_modern_format_when_not_sha1"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-13135": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_kmeans_high_number_of_bins_no_error_and_monotonic_edges",
+                "test_kmeans_random_data_many_bins_edge_monotonicity"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14238": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_default_auto_field_subclass_big",
+                "test_default_auto_field_subclass_small",
+                "test_m2m_default_auto_field_subclass_small"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-12973": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_fit_overrides_constructor",
+                "test_fit_can_set_false_when_constructor_true"
+            ],
+            "unresolved": [
+                "test_estimator_init_respected"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-15017": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_len_rank_zero_array",
+                "test_len_rank_zero_dense_classes",
+                "test_len_non_scalar_arrays_unchanged"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13647": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_col_insert_middle_multiple_columns",
+                "test_col_insert_various_positions_and_signs",
+                "test_col_insert_does_not_modify_original"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16631": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_session_survives_secret_key_rotation"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-26208": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_stackplot_twinx_datalim_integrity",
+                "test_stackplot_on_twin_axes_leaves_original_datalim_untouched"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pydata__xarray-6599": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_polyval_with_timedelta64_coordinates"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16527": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_show_save_as_new_without_add_permission",
+                "test_show_save_as_new_with_add_permission"
+            ]
+        }
+    },
+    "django__django-10880": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_count_distinct_with_case_executes_and_returns_expected",
+                "test_sql_has_separator_between_distinct_and_case"
+            ]
+        }
+    },
+    "pydata__xarray-2905": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dataarray_assignment_preserves_object_instance",
+                "test_variable_assignment_preserves_object_instance",
+                "test_broadcast_assignment_with_values_attribute"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-7440": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_case_insensitive_terms_no_longer_duplicate",
+                "test_identical_terms_still_duplicate"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8551": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-15875": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_is_zero_no_false_on_zero_complex_add"
+            ],
+            "unresolved": [
+                "test_is_zero_correct_on_obviously_nonzero_complex_add"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-7393": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_dataset_stack_preserves_coordinate_dtype_int32",
+                "test_dataarray_stack_preserves_coordinate_dtype_int32"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11999": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_custom_get_field_display_overridden_respected",
+                "test_default_get_field_display_still_provided"
+            ]
+        }
+    },
+    "mwaskom__seaborn-3187": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_size_legend_values_have_correct_order_of_magnitude"
+            ],
+            "unresolved": [
+                "test_size_legend_contains_scalarformatter_offset"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11728": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_replace_named_groups_replaces_trailing_group",
+                "test_simplify_regex_no_named_group_leaks"
+            ]
+        }
+    },
+    "sphinx-doc__sphinx-9230": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_make_xrefs_preserves_dict_param_structure_with_space",
+                "test_make_xrefs_preserves_dict_param_structure_without_space"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-7671": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_minversion_release_vs_dev_inclusive_true",
+                "test_minversion_dev_vs_release_inclusive_true",
+                "test_minversion_release_vs_dev_inclusive_false"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14608": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_non_form_errors_has_css_class",
+                "test_error_class_argument_still_respected"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15731": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_bulk_create_signature_on_manager",
+                "test_custom_queryset_method_signature_on_manager"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15732": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_drop_single_field_unique_together"
+            ]
+        }
+    },
+    "django__django-15695": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_rename_unnamed_index_forward_backward_forward"
+            ]
+        }
+    },
+    "django__django-11095": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_modeladmin_defines_get_inlines",
+                "test_get_inline_instances_respects_get_inlines"
+            ]
+        }
+    },
+    "django__django-11790": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_username_field_maxlength_attribute_present_default_user",
+                "test_widget_attrs_retains_other_attributes",
+                "test_username_field_maxlength_attribute_present_custom_user"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8621": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 4,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_single_dash",
+                "test_single_plus",
+                "test_single_caret",
+                "test_compound_shift_plus"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-12155": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_trim_docstring_skips_first_line_when_measuring_indent",
+                "test_parse_docstring_body_is_not_indented"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-7521": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_fd_capture_preserves_carriage_return_stdout",
+                "test_fd_capture_preserves_carriage_return_stderr"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-13398": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_altaz_independence_from_itrs_obstime",
+                "test_hadec_independence_from_itrs_obstime",
+                "test_itrs_altaz_roundtrip_preserves_cartesian"
+            ]
+        }
+    },
+    "pytest-dev__pytest-5840": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_conftest_is_imported_with_original_casing",
+                "test_reimport_returns_same_module_object"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-24562": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_rational_both_args_string",
+                "test_rational_string_numerator_int_denominator",
+                "test_rational_decimal_numerator_and_string_denominator_general",
+                "test_rational_equivalence_with_division"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8475": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_head_redirect_loop_get_fallback"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9591": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_property_type_cross_reference"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-22871": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_concise_formatter_year_offset_for_subyear_without_january"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16429": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_timesince_one_month_interval_aware",
+                "test_timeuntil_one_month_interval_aware",
+                "test_timesince_year_and_month_interval_aware"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16595": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_alterfield_chain_optimizes_to_single",
+                "test_identical_alterfield_chain_optimizes_to_single"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13516": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_output_wrapper_flush_forwarded_to_underlying_stream"
+            ],
+            "unresolved": [
+                "test_output_wrapper_flush_safe_without_underlying_flush"
+            ],
+            "missing": []
+        }
+    },
+    "psf__requests-1766": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_digest_header_accepts_quoted_single_qop",
+                "test_digest_header_accepts_multiple_quoted_qop_tokens"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13786": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_create_alter_model_options_clear",
+                "test_create_alter_model_options_replace_subset"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-7571": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_handler_level_restored_after_finalize",
+                "test_root_logger_restored_after_finalize",
+                "test_at_level_context_manager_restores_handler_level"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11400": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_fallback_to_meta_ordering",
+                "test_relatedonly_respects_meta_ordering",
+                "test_relatedonly_respects_admin_ordering"
+            ]
+        }
+    },
+    "pylint-dev__pylint-4661": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_xdg_data_dir_resolution_precedence",
+                "test_save_results_creates_xdg_directory"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15572": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_get_template_directories_excludes_cwd",
+                "test_watch_for_template_changes_does_not_watch_cwd",
+                "test_template_changed_returns_none_for_non_template_file"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13794": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_add_filter_with_lazy_string_template",
+                "test_add_filter_with_lazy_string_first_operand",
+                "test_add_function_direct_with_lazy_string"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16139": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_password_helptext_link_uses_pk_and_is_resolvable"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14170": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_iso_year_filter_includes_cross_calendar_year_dates",
+                "test_iso_year_date_field_behaviour_matches_datetime_field"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16801": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_no_dimension_fields_no_post_init_handler",
+                "test_dimension_fields_have_post_init_handler"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16899": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_readonly_fields_error_includes_field_name_on_modeladmin",
+                "test_readonly_fields_error_includes_field_name_on_inline"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-10999": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_negative_minutes",
+                "test_negative_seconds",
+                "test_negative_minutes_and_seconds",
+                "test_all_negative_components"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-10673": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_toctree_contains_no_nonexisting_document_warnings"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11820": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_valid_related_pk_ordering_passes",
+                "test_invalid_related_pk_ordering_still_errors"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9461": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_getdoc_for_classmethod_property"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-24213": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_collect_factor_and_dimension_mismatched_dimensions_raises"
+            ],
+            "unresolved": [
+                "test_collect_factor_and_dimension_equivalent_velocity",
+                "test_collect_factor_and_dimension_equivalent_length"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-7889": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_make_subclass_accepts_typevar_module"
+            ],
+            "missing": [
+                "test_make_subclass_regular_usage"
+            ]
+        }
+    },
+    "sympy__sympy-13615": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_complement_mixed_numeric_symbolic",
+                "test_complement_numeric_outside_interval_and_symbols",
+                "test_complement_pure_numeric_still_correct"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-10323": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_literalinclude_prepend_and_dedent_keeps_prepend"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-8399": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_setUpClass_fixture_is_private",
+                "test_setUp_fixture_is_private"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14915": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_hashable_and_dict_lookup_with_same_type_key",
+                "test_hashable_and_dict_lookup_with_underlying_value_key",
+                "test_set_behavior"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-7462": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_parse_annotation_with_empty_tuple"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16485": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_string_zero_with_zero_decimals",
+                "test_decimal_zero_with_zero_decimals",
+                "test_string_zero_with_string_precision",
+                "test_negative_zero_string"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-20676": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_span_selector_interactive_does_not_expand_xlim",
+                "test_span_selector_interactive_does_not_expand_ylim"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pylint-dev__pylint-6386": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_short_verbose_before_path",
+                "test_short_verbose_after_path",
+                "test_no_argument_expected_message_absent"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14122": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_meta_ordering_excluded_from_group_by"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-24627": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_axes_cla_deparents_artist",
+                "test_figure_clf_deparents_artist"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-25232": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_iterative_imputer_accepts_fill_value_parameter",
+                "test_iterative_imputer_constant_fill_value_effect",
+                "test_iterative_imputer_fill_value_nan_is_accepted"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11179": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_pk_is_cleared_on_fast_delete"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9258": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11087": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_collector_related_objects_selects_only_pk"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15930": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_case_with_negated_empty_in_lookup",
+                "test_filter_with_negated_empty_in_lookup"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16661": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_lookup_allowed_with_foreign_pk_chain",
+                "test_truncated_lookup_still_disallowed"
+            ]
+        }
+    },
+    "django__django-12774": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_in_bulk_respects_unique_constraint",
+                "test_in_bulk_rejects_non_unique_field"
+            ]
+        }
+    },
+    "scikit-learn__scikit-learn-14629": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_cross_val_predict_predict_proba_multioutput"
+            ],
+            "unresolved": [
+                "test_cross_val_predict_predict_log_proba_multioutput"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13112": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_get_model_is_case_insensitive",
+                "test_autodetector_handles_mixed_case_app_name"
+            ]
+        }
+    },
+    "django__django-13551": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_token_is_invalid_after_email_change",
+                "test_token_remains_valid_if_email_unchanged"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14311": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-20859": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_subfigure_legend_no_arguments",
+                "test_subfigure_legend_explicit_arguments"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15554": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_multiple_filteredrelation_same_relation"
+            ]
+        }
+    },
+    "sphinx-doc__sphinx-10466": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_locations_are_unique_for_each_message",
+                "test_expected_locations_after_deduplication"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-22080": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_lambdify_mod_unary_minus_modules_empty",
+                "test_lambdify_mod_numeric_multiplier_modules_empty",
+                "test_lambdify_mod_symbolic_multiplier_modules_empty"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13925": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_no_w042_with_multitable_inheritance_on_explicit_pk",
+                "test_no_w042_with_abstract_inheritance_on_explicit_pk"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-22719": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_plot_empty_lists_no_deprecation",
+                "test_convert_units_empty_list_no_deprecation"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-14508": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_float_string_representation_short",
+                "test_hierarch_card_comment_not_truncated"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-24149": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_bar_with_all_nan_values",
+                "test_bar_with_nan_x_valid_height",
+                "test_bar_after_phantom_nan_call"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9367": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_unparse_single_element_tuple",
+                "test_unparse_single_element_tuple_nested"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16493": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_filefield_deconstruct_includes_callable_returning_default_storage",
+                "test_filefield_deconstruct_stability_for_callable_returning_default_storage"
+            ]
+        }
+    },
+    "django__django-15629": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_altering_pk_collation_propagates_to_fks"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8638": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_find_obj_prefers_class_attribute_over_module_data_default_searchmode"
+            ],
+            "missing": [
+                "test_find_obj_prefers_class_attribute_with_refspecific_searchmode"
+            ]
+        }
+    },
+    "astropy__astropy-14096": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_custom_property_error_message_and_successful_access"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-11445": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_title_retained_with_rst_prolog"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-22714": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_sympify_point2d_inside_evaluate_context",
+                "test_sympify_point2d_without_context_and_with_explicit_flag",
+                "test_imaginary_coordinates_still_raise"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-21847": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_itermonomials_commutative_min_eq_max",
+                "test_itermonomials_commutative_range"
+            ],
+            "unresolved": [
+                "test_itermonomials_noncommutative_min_eq_max"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-10914": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_default_setting_value",
+                "test_permissions_after_storage_save"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13012": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_expressionwrapper_constant_not_in_group_by",
+                "test_plain_value_constant_still_not_in_group_by"
+            ]
+        }
+    },
+    "django__django-16569": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_empty_form_does_not_raise_type_error",
+                "test_initial_form_still_has_deletion_field"
+            ]
+        }
+    },
+    "sphinx-doc__sphinx-8269": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_http_error_reported_instead_of_anchor_not_found",
+                "test_anchor_not_found_still_reported_for_http_200"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15161": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_f_deconstruct_returns_simplified_path",
+                "test_outerref_deconstruct_returns_simplified_path"
+            ]
+        }
+    },
+    "django__django-12209": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_save_with_explicit_pk_updates_instead_of_inserts",
+                "test_loaddata_multiple_times_with_explicit_pk"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-17087": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_nested_classmethod_has_full_qualname",
+                "test_top_level_classmethod_unchanged"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-12585": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_clone_with_estimator_class_parameter",
+                "test_clone_directly_on_estimator_having_class_value"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14725": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_no_new_objects_when_queryset_empty",
+                "test_no_new_objects_with_existing_instances"
+            ]
+        }
+    },
+    "scikit-learn__scikit-learn-11310": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_refit_time_attribute_present_and_valid",
+                "test_refit_time_attribute_absent_when_refit_false"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-16792": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_autowrap_unused_matrix_argument",
+                "test_autowrap_some_unused_arguments"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14315": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_non_empty_env_is_forwarded",
+                "test_postgresql_client_uses_parent_env_when_none_needed"
+            ],
+            "unresolved": [
+                "test_empty_env_is_converted_to_none"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-12050": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 4,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_list_is_not_coerced_to_tuple",
+                "test_tuple_is_unchanged",
+                "test_list_with_expressions_remains_list",
+                "test_build_filter_exact_uses_unmodified_list"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-20488": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_log_norm_direct_call_on_extreme_range",
+                "test_imshow_with_log_norm_extreme_range"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pydata__xarray-4356": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_sum_min_count_multiple_dims_basic",
+                "test_sum_min_count_multiple_dims_with_nans",
+                "test_sum_min_count_tuple_dim_argument"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-7748": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_autodoc_docstring_signature_overloads_are_removed",
+                "test_autodoc_docstring_other_signatures_are_kept"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11555": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_parent_model_with_expression_ordering"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13480": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_coth_log_tan_subs_integers",
+                "test_coth_log_tan_subs_special_value"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14787": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_method_decorator_with_single_logger",
+                "test_method_decorator_class_level_with_logger",
+                "test_method_decorator_with_tuple_of_loggers"
+            ]
+        }
+    },
+    "sympy__sympy-17318": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_issue_12420_indexerror_fixed",
+                "test_sqrtdenest_no_change_for_undennestable_sqrt"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16082": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 4,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_decimal_mod_integer_output_field_and_value",
+                "test_integer_mod_decimal_output_field_and_value",
+                "test_assignment_using_mod_with_mixed_types",
+                "test_smoke"
+            ]
+        }
+    },
+    "sympy__sympy-14531": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-15599": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_mod_simplifies_constant_factor"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14534": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_boundwidget_id_for_label_respects_attrs_id",
+                "test_rendered_label_for_attribute_matches_input_id"
+            ]
+        }
+    },
+    "sympy__sympy-24661": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_parse_expr_evaluate_false_relational_numeric_lt",
+                "test_parse_expr_evaluate_false_relational_numeric_le",
+                "test_parse_expr_evaluate_false_relational_symbolic",
+                "test_parse_expr_evaluate_true_still_evaluates"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-17139": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_simplify_trig_power_with_I_exponent",
+                "test_simplify_trig_power_with_complex_symbolic_exponent"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13033": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 4,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_order_by_root_id_ascending",
+                "test_order_by_root_id_descending",
+                "test_order_by_traversed_root_id",
+                "test_sql_has_no_redundant_outer_join"
+            ]
+        }
+    },
+    "sympy__sympy-20590": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_symbol_no_instance_dict",
+                "test_symbol_slots_do_not_include_dict",
+                "test_symbol_cannot_set_arbitrary_attributes"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-5631": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_still_counts_default_sentinel_correctly"
+            ],
+            "unresolved": [
+                "test_no_valueerror_for_ambiguous_array_like"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15280": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_nested_prefetch_with_one_to_one",
+                "test_nested_prefetch_with_foreign_key"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-23299": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_get_backend_keeps_figs_rc_context",
+                "test_close_still_works_after_get_backend"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-20826": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_clear_shared_axes_preserves_ticklabel_visibility"
+            ],
+            "unresolved": [
+                "test_clear_shared_axes_does_not_enable_top_right_ticks"
+            ],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-6197": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_random_init_py_not_collected"
+            ],
+            "unresolved": [
+                "test_explicit_init_py_is_still_collected"
+            ],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-5809": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_create_new_paste_uses_text_lexer"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-14248": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_scalar_subtraction_unchanged"
+            ],
+            "unresolved": [
+                "test_matrixsymbol_subtraction_str_printer",
+                "test_matrixsymbol_subtraction_latex_printer"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-4966": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_decode_unsigned_false_to_signed",
+                "test_decode_unsigned_true_still_unsigned"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-12754": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_field_moved_to_subclass_is_removed_first"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-26323": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_remainder_estimator_receives_set_output",
+                "test_consistency_with_explicit_transformer_list"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-18189": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_diophantine_permute_complete_for_original_order",
+                "test_diophantine_permute_complete_for_reversed_order"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-17029": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_clear_cache_clears_get_swappable_settings_name_cache"
+            ]
+        }
+    },
+    "django__django-16032": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_annotation_and_alias_filter_in_subquery"
+            ]
+        }
+    },
+    "django__django-11163": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_model_to_dict_with_empty_fields_returns_empty_dict",
+                "test_model_to_dict_with_none_fields_returns_all_fields"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-7590": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_floating_point_udl",
+                "test_integer_udl",
+                "test_udl_in_binary_expression"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-24570": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_align_top",
+                "test_align_bottom",
+                "test_align_center"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-10435": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_no_leading_trailing_space_inside_inline_code"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-25287": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_yoffsettext_color_respects_rcparams_labelcolor",
+                "test_xoffsettext_color_respects_rcparams_labelcolor"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14580": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_generated_migration_contains_models_import",
+                "test_generated_migration_executes_without_name_error"
+            ]
+        }
+    },
+    "django__django-16100": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_bulk_edit_is_atomic"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15851": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_parameters_precede_dbname_basic",
+                "test_parameters_precede_dbname_with_minimal_settings",
+                "test_parameters_with_service_option_no_dbname"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-10081": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_unittest_skip_class_does_not_run_teardown_with_pdb"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14999": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_rename_model_with_same_db_table_is_noop",
+                "test_rename_model_without_db_table_triggers_table_rename"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13406": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_values_queryset_recreated_from_pickled_query_returns_dicts",
+                "test_values_list_flat_queryset_recreated_from_pickled_query_returns_scalars"
+            ]
+        }
+    },
+    "astropy__astropy-7606": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_unrecognizedunit_compare_with_none",
+                "test_unrecognizedunit_self_equality"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14376": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_new_kwargs_are_used",
+                "test_absent_values_do_not_introduce_deprecated_kwargs"
+            ]
+        }
+    },
+    "astropy__astropy-14369": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_cds_reader_preserves_composite_unit_order",
+                "test_cds_reader_numeric_values_unchanged"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9658": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_restify_includes_class_name_for_mocked_base",
+                "test_restify_still_handles_normal_classes"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15741": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_get_format_accepts_lazy_parameter",
+                "test_date_filter_with_lazy_format_argument"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-5787": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_chained_exception_with_from_round_trip",
+                "test_chained_exception_without_from_round_trip"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-18211": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_solveset_returns_conditionset"
+            ],
+            "unresolved": [
+                "test_eq_as_set_returns_conditionset"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11951": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_bulk_create_respects_backend_max_batch_size"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-14309": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_identify_format_with_ecsv_path_and_empty_args",
+                "test_identify_format_with_fits_path"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8120": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_custom_po_overrides_builtin_translation"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11749": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_missing_required_group_raises"
+            ],
+            "unresolved": [
+                "test_shop_id_passed_via_kwargs",
+                "test_shop_name_passed_via_kwargs",
+                "test_option_passed_as_arg_string"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9698": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-12489": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_subclass_instance_creation",
+                "test_subclass_af_new_respects_cls",
+                "test_base_class_untouched"
+            ],
+            "unresolved": [
+                "test_subclass_integer_constructor"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-13453": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_html_write_formats_with_callable",
+                "test_html_write_formats_with_format_string"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13028": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_falsey_but_non_boolean_filterable_is_allowed",
+                "test_filterable_false_still_disallowed"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11433": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_cleaned_data_overwrites_default_value",
+                "test_default_value_retained_when_cleaned_data_not_modified"
+            ],
+            "missing": []
+        }
+    },
+    "pylint-dev__pylint-4970": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_min_similarity_lines_zero_disables_detection",
+                "test_positive_min_similarity_lines_still_detects_duplicates"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13023": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_decimalfield_clean_rejects_dict",
+                "test_decimalfield_to_python_rejects_dict"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pylint-dev__pylint-7277": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_modify_sys_path_preserves_non_special_first_entry",
+                "test_modify_sys_path_removes_dot_entry"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-7530": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_makemigrations_calls_allow_migrate_with_correct_pairs"
+            ]
+        }
+    },
+    "scikit-learn__scikit-learn-13328": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_huber_regressor_accepts_boolean_input"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11119": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_autoescape_false_is_respected",
+                "test_autoescape_true_default_still_escapes",
+                "test_explicit_context_instance_is_unchanged"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14434": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13807": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_check_constraints_handles_reserved_table_name",
+                "test_loaddata_succeeds_with_reserved_table_name"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13569": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_order_by_random_keeps_grouping",
+                "test_order_by_concrete_relation_still_breaks_grouping"
+            ]
+        }
+    },
+    "django__django-16454": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_missing_required_subparser_argument_has_human_message"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13810": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [
+                "test_middleware_not_used_does_not_poison_chain"
+            ],
+            "unresolved": [],
+            "missing": [
+                "test_view"
+            ]
+        }
+    },
+    "django__django-12325": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_parent_link_declared_first",
+                "test_parent_link_declared_second"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-4687": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dataarray_where_method_still_preserves_attrs"
+            ],
+            "unresolved": [
+                "test_xr_where_preserves_attrs_scalar_fallback",
+                "test_xr_where_preserves_attrs_when_both_inputs_are_dataarrays"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-6461": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_where_with_two_scalars_and_keep_attrs_true",
+                "test_where_scalar_x_dataarray_y_keep_attrs_true",
+                "test_where_dataarray_x_scalar_y_keep_attrs_true_retains_attrs"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11532": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_message_id_punycode_with_iso_encoding",
+                "test_message_id_punycode_with_default_encoding"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9320": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_quickstart_exits_on_empty_root_path",
+                "test_is_path_still_disallows_empty_string"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-7324": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 4,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_compile_false_constant",
+                "test_compile_true_constant",
+                "test_compile_none_constant",
+                "test_lowercase_identifier_still_compiled_as_name"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11066": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_renamecontenttype_uses_schema_editor_alias"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13878": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_cdf_no_integrals_and_derivative_checks",
+                "test_cdf_no_integrals_other_distributions"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15916": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_callback_preserved_when_defined_on_meta",
+                "test_callback_preserved_when_defined_on_form_class"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13315": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_no_duplicate_options_with_join_limit_choices_to"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-12096": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_evalf_recursive_single_arg",
+                "test_evalf_recursive_multi_arg",
+                "test_evalf_recursive_deeper_nesting"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-23824": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_kahane_simplify_preserves_two_leading_gammas",
+                "test_kahane_simplify_preserves_three_leading_gammas"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-8872": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_scalar_float16_preserves_dtype",
+                "test_array_float16_preserves_dtype",
+                "test_constructor_float16_preserves_dtype",
+                "test_other_float_types_unchanged"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16136": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_post_request_to_async_post_only_view_succeeds"
+            ],
+            "unresolved": [
+                "test_get_request_to_async_post_only_view_returns_405"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13852": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_polylog_dilog_half_evaluation"
+            ],
+            "unresolved": [
+                "test_polylog_one_expansion_no_exp_polar"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-23476": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_dpi_stability_after_pickle_roundtrip"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-7982": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_visit_follows_symlink_directories"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-19495": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_conditionset_subs_with_imageset",
+                "test_conditionset_subs_with_finiteset"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-13779": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_fit_with_none_estimator_and_sample_weight",
+                "test_sample_weight_validation_skips_none_estimators"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11206": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_positive_underflow_is_zero"
+            ],
+            "unresolved": [
+                "test_negative_underflow_is_negative_zero",
+                "test_larger_underflow_still_zero",
+                "test_underflow_with_zero_decimal_pos"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-10614": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_svg_links_for_root_document",
+                "test_svg_links_for_nested_document"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15368": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_bulk_update_with_plain_F_expression_single_object",
+                "test_bulk_update_with_plain_F_expression_multiple_objects"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-14539": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_fitsdiff_two_opened_hdulists_with_q_vla",
+                "test_table_datadiff_identical_q_vla"
+            ],
+            "unresolved": [
+                "test_fitsdiff_identical_file_with_q_vla"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15375": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_aggregate_with_default_after_annotate_non_empty",
+                "test_aggregate_with_default_after_annotate_empty_queryset"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-9288": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_kmeans_results_identical_across_n_jobs"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-7757": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_positional_only_default_is_preserved"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-16145": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_runserver_zero_address_is_normalized"
+            ]
+        }
+    },
+    "astropy__astropy-13579": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_roundtrip_pixel_to_world_to_pixel_on_slice"
+            ],
+            "unresolved": [
+                "test_world_to_pixel_consistency_between_full_and_slice"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-12708": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_delete_index_together_preserves_unique_and_does_not_error"
+            ]
+        }
+    },
+    "sphinx-doc__sphinx-8459": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_type_aliases_with_description",
+                "test_type_aliases_with_signature"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13974": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_tensor_product_power_scalar_scalar",
+                "test_tensor_product_power_with_pauli",
+                "test_tensor_product_pow_direct_evaluation"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8265": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_object_description_retains_parentheses_for_tuple_defaults",
+                "test_stringify_signature_with_tuple_default_on_function",
+                "test_stringify_signature_with_tuple_default_on_method"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-10356": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_markers_from_multiple_bases_are_merged",
+                "test_markers_from_bases_and_subclass_are_all_present"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-25332": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_pickle_with_align_labels",
+                "test_pickle_with_align_xlabels",
+                "test_pickle_with_align_ylabels"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-13142": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_gaussian_mixture_fit_predict_consistency_with_multiple_inits"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-12276": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_use_required_attribute_true_without_initial",
+                "test_use_required_attribute_false_with_initial",
+                "test_required_attribute_rendering_without_and_with_initial"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-17655": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_point_add_mul_commutativity_with_scalar_left",
+                "test_point_add_mul_commutativity_with_integer_and_rational",
+                "test_commutativity_with_addition_on_both_sides"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-25747": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_feature_union_with_pandas_output_and_aggregation",
+                "test_feature_union_with_default_output_and_aggregation"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-21596": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_imageset_real_intersection_evaluation_and_membership"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13417": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_group_by_annotate_unsets_ordered_flag"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14792": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_iana_etc_gmt_name_is_left_untouched",
+                "test_numeric_positive_offset_is_flipped",
+                "test_numeric_negative_offset_is_flipped"
+            ],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-6202": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_getmodpath_preserves_dot_before_bracket",
+                "test_getmodpath_multiple_dot_bracket_sequences"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13658": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_execute_from_command_line_tolerates_none_sys_argv0"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-3305": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_single_quantile_keep_attrs_true",
+                "test_multiple_quantiles_keep_attrs_true",
+                "test_default_keep_attrs_drops",
+                "test_explicit_keep_attrs_false"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13212": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_regex_validator_passes_value",
+                "test_email_validator_passes_value",
+                "test_url_validator_passes_value"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-12858": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_isnull_lookup_in_ordering_passes_system_check",
+                "test_isnull_lookup_with_descending_prefix_passes_system_check"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15569": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_unregister_lookup_clears_cache_for_class",
+                "test_unregister_lookup_clears_cache_for_subclasses"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-24970": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_colormap_no_deprecation_with_empty_uint8_array",
+                "test_colormap_no_deprecation_and_consistent_output_uint8_values"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9673": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_returns_field_creates_rtype",
+                "test_existing_rtype_is_not_duplicated"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-12741": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_execute_sql_flush_signature",
+                "test_execute_sql_flush_callable_with_single_argument"
+            ]
+        }
+    },
+    "django__django-16255": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_empty_callable_lastmod_returns_none",
+                "test_non_empty_callable_lastmod_returns_latest"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14089": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_reversed_preserves_reverse_insertion_order",
+                "test_reversed_on_empty_set",
+                "test_reversed_after_mutations",
+                "test_reversed_returns_iterator"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13401": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_abstract_field_equality_differs_by_model",
+                "test_field_hashing_distinguishes_models",
+                "test_field_total_ordering_still_works"
+            ],
+            "missing": []
+        }
+    },
+    "pylint-dev__pylint-8898": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_regexp_csv_transformer_handles_comma_quantifier",
+                "test_regexp_csv_transformer_still_splits_on_delimiter_for_multiple_patterns"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8595": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_explicit_empty___all___hides_members",
+                "test_missing___all___still_includes_members"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-25311": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_pickle_axes_legend_draggable",
+                "test_pickle_figure_legend_draggable"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-10297": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_ridgeclassifiercv_accepts_store_cv_values",
+                "test_ridgeclassifiercv_without_store_cv_values"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-16766": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_pycode_indexed_single_and_multi",
+                "test_pycode_indexed_inside_expression"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15315": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_hash_stable_across_model_assignment",
+                "test_distinct_fields_keep_distinct_hashes"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11885": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_combined_fast_delete_for_multiple_fk_columns",
+                "test_combined_fast_delete_for_self_m2m"
+            ]
+        }
+    },
+    "sympy__sympy-20154": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_partitions_unique_without_copy",
+                "test_partitions_unique_with_size",
+                "test_partitions_modification_isolated"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13121": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_duration_annotation_with_timedelta"
+            ]
+        }
+    },
+    "django__django-12125": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_deconstruct_path_contains_outer_class"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-24539": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_PolyElement_as_expr_respects_given_symbols",
+                "test_PolyElement_as_expr_single_variable"
+            ],
+            "unresolved": [
+                "test_PolyElement_as_expr_symbol_count_validation"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-12039": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_columns_whitespace_with_ordering",
+                "test_indexcolumns_whitespace_with_opclass_only",
+                "test_indexcolumns_whitespace_with_opclass_and_ordering"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9229": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_multiline_type_alias_docstrings_are_rendered"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13741": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_field_is_disabled_by_default"
+            ],
+            "unresolved": [
+                "test_disabled_field_is_ignored_during_clean"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15103": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_json_script_without_element_id",
+                "test_json_script_element_id_none",
+                "test_template_filter_without_argument"
+            ]
+        }
+    },
+    "django__django-16315": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_bulk_create_respects_db_column_names_in_conflict_clause"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-21612": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_nested_fraction_parenthesised_denominator",
+                "test_fraction_divided_by_reciprocal"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-12193": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 4,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_single_true_followed_by_false",
+                "test_true_in_middle",
+                "test_all_false",
+                "test_multiple_true"
+            ],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-15100": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_strip_accents_unicode_idempotent_and_safe",
+                "test_count_vectorizer_with_unicode_stripping"
+            ],
+            "unresolved": [
+                "test_strip_accents_unicode_handles_combining_marks"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-14365": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test__line_type_recognises_lowercase_command"
+            ],
+            "unresolved": [
+                "test_lowercase_commands_are_accepted_by_table_reader"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13512": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_jsonfield_prepare_value_preserves_unicode",
+                "test_form_render_shows_unicode_characters",
+                "test_form_redisplay_keeps_unicode_on_validation_error"
+            ]
+        }
+    },
+    "sympy__sympy-13031": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_hstack_zero_row_matrices",
+                "test_vstack_zero_column_matrices",
+                "test_hstack_incompatible_rows_raises"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14500": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_unapply_squashed_migration_marks_replacement_as_unapplied"
+            ]
+        }
+    },
+    "django__django-11848": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_two_digit_year_70_within_future_window"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16263": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_unused_annotation_is_stripped_from_count_query",
+                "test_annotation_used_in_filter_is_kept_in_count_query"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-13033": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_remove_required_column_message",
+                "test_remove_non_required_column_succeeds"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-11265": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_exclude_isnull_lookup",
+                "test_filter_negated_q_equivalence",
+                "test_follow_up_lookup_after_exclude"
+            ]
+        }
+    },
+    "django__django-13590": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_namedtuple_range_lookup_executes_without_error",
+                "test_namedtuple_range_lookup_preserves_values"
+            ],
+            "missing": []
+        }
+    },
+    "astropy__astropy-7336": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_quantity_input_init_with_none_return",
+                "test_quantity_input_function_none_return"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14765": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_project_state_real_apps_requires_set",
+                "test_project_state_real_apps_accepts_set"
+            ]
+        }
+    },
+    "psf__requests-6028": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_header_present_after_prepare"
+            ],
+            "unresolved": [
+                "test_header_persists_during_redirect"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-4695": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_loc_dimension_named_method_dataarray_scalar",
+                "test_loc_dimension_named_method_dataarray_full_slice"
+            ],
+            "unresolved": [
+                "test_loc_dimension_named_method_dataarray_non_scalar",
+                "test_loc_dimension_named_method_dataset"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-12262": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_kwonly_default_can_be_overridden",
+                "test_kwonly_default_with_as_var_syntax",
+                "test_kwonly_default_duplicate_value_raises_multiple_values_error",
+                "test_kwonly_default_unexpected_keyword_still_raises"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pydata__xarray-6721": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_chunks_does_not_trigger_data_load"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "psf__requests-5414": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_preparing_url_with_leading_dot_raises_invalidurl",
+                "test_requests_get_with_leading_dot_raises_invalidurl",
+                "test_valid_url_still_prepares_successfully"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15863": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_template_floatformat_decimal_precision",
+                "test_function_floatformat_decimal_precision",
+                "test_function_floatformat_decimal_negative_precision"
+            ]
+        }
+    },
+    "pylint-dev__pylint-6528": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_ignore_option_excludes_hidden_directory",
+                "test_ignore_paths_option_excludes_hidden_directory",
+                "test_ignore_patterns_option_excludes_hidden_directory"
+            ]
+        }
+    },
+    "django__django-11099": {
+        "n_resolved_tests": 6,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_ascii_accepts_standard_username",
+                "test_ascii_rejects_trailing_newline",
+                "test_ascii_rejects_embedded_newline",
+                "test_unicode_accepts_standard_username",
+                "test_unicode_rejects_trailing_newline",
+                "test_unicode_rejects_embedded_newline"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13809": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_skip_checks_flag_sets_attribute_true",
+                "test_skip_checks_default_is_false"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13877": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_determinant_no_nan_det_function",
+                "test_determinant_no_nan_matrix_method"
+            ]
+        }
+    },
+    "django__django-13297": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_url_kwarg_is_plain_string"
+            ],
+            "missing": []
+        }
+    },
+    "psf__requests-1142": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_get_without_body_has_no_content_length",
+                "test_get_with_params_but_no_body_has_no_content_length",
+                "test_post_with_body_keeps_content_length"
+            ],
+            "unresolved": [
+                "test_get_with_explicit_empty_body_has_no_content_length"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-24026": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_stackplot_accepts_cn_color_aliases"
+            ],
+            "unresolved": [
+                "test_stackplot_does_not_modify_axes_prop_cycle"
+            ],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-8035": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15973": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_create_model_handles_string_through"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11276": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_django_escape_matches_stdlib_for_various_inputs",
+                "test_django_escape_result_is_safestring"
+            ]
+        }
+    },
+    "sympy__sympy-18763": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_latex_mul_subs_parenthesized_negative_term",
+                "test_latex_mul_subs_parenthesized_positive_terms"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14559": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_bulk_update_returns_rows_updated",
+                "test_bulk_update_with_batch_size_returns_correct_count",
+                "test_bulk_update_on_empty_input_returns_zero"
+            ]
+        }
+    },
+    "pydata__xarray-7229": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_where_keep_attrs_preserves_coord_attrs_dataarray_scalar_cond",
+                "test_where_keep_attrs_preserves_coord_attrs_dataset"
+            ],
+            "unresolved": [
+                "test_where_keep_attrs_preserves_coord_attrs_dataarray_array_cond"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11734": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_outerref_inside_exclude",
+                "test_outerref_inside_negated_q"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-25479": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_alias_registered_colormap_with_pyplot",
+                "test_get_cmap_default_after_alias_selection"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-9602": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_literal_constant_is_not_cross_referenced",
+                "test_regular_type_name_still_cross_referenced"
+            ],
+            "missing": []
+        }
+    },
+    "matplotlib__matplotlib-24637": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_annotationbbox_gid_in_svg"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-14995": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_multiply_mask_constant_propagates_mask",
+                "test_multiply_mask_and_nomask_propagates_mask_both_orders"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13372": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_evalf_mul_with_max_original_order"
+            ],
+            "unresolved": [
+                "test_evalf_mul_with_max_reversed_order"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-6992": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_data_vars_len_after_reset_index_drop",
+                "test_data_vars_len_with_real_variable_after_reset_index_drop"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13346": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 3,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_in_lookup_single_value",
+                "test_in_lookup_multiple_values",
+                "test_in_lookup_empty_iterable"
+            ]
+        }
+    },
+    "django__django-14007": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_from_db_value_on_create",
+                "test_from_db_value_on_bulk_create"
+            ]
+        }
+    },
+    "django__django-15380": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_rename_model_and_field_in_single_step"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "mwaskom__seaborn-3069": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_nominal_axis_has_half_step_padding",
+                "test_nominal_y_axis_is_inverted"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-15809": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-7166": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_property_docstring_is_inherited",
+                "test_property_docstring_is_not_overwritten"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pydata__xarray-3151": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_combine_by_coords_nonmonotonic_identical_string_coords",
+                "test_combine_by_coords_nonmonotonic_identical_numeric_coords"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16667": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_value_from_datadict_large_year",
+                "test_form_is_valid_with_large_year_does_not_crash"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13363": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 4,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_truncdate_uses_supplied_tzinfo",
+                "test_trunctime_uses_supplied_tzinfo",
+                "test_truncdate_without_tzinfo_still_calls_fallback",
+                "test_trunctime_without_tzinfo_still_calls_fallback"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13091": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_basic_equality_delegates_to_reflected_method",
+                "test_basic_eq_returns_notimplemented_for_unknown_type"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15525": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_loaddata_on_other_db_with_fk_natural_key"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11138": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_datetime_cast_date_sql_converts_from_database_tz_to_target_tz"
+            ],
+            "missing": [
+                "test_datetime_cast_date_sql_no_conversion_when_time_zones_match"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-26466": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_annotation_xy_is_copied"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pydata__xarray-6744": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_manual_iter_centered_mean_matches_builtin",
+                "test_manual_iter_noncentered_unchanged"
+            ],
+            "unresolved": [
+                "test_manual_iter_centered_window_contents"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-16886": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_encode_morse_digit_one",
+                "test_decode_morse_digit_one",
+                "test_encode_decode_all_digits_round_trip"
+            ],
+            "unresolved": [
+                "test_decode_morse_invalid_sequence_for_one"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11141": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_loader_detects_namespace_package",
+                "test_show_and_apply_migrations"
+            ],
+            "missing": []
+        }
+    },
+    "pytest-dev__pytest-5262": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_encoded_file_mode_no_binary_flag",
+                "test_encoded_file_write_and_error_behavior"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15252": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_ensure_schema_respects_router"
+            ]
+        }
+    },
+    "django__django-11451": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_no_query_when_username_is_none",
+                "test_no_query_when_password_is_none",
+                "test_no_query_when_both_username_and_password_are_none"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-13977": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_incompatible_units_duckarray_left"
+            ],
+            "unresolved": [
+                "test_same_units_quantity_left",
+                "test_incompatible_units_quantity_left"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13195": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_message_storage_cookie_deletion_samesite"
+            ],
+            "unresolved": [
+                "test_delete_cookie_includes_samesite_attribute"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-15037": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_inspectdb_includes_to_field_for_non_pk_foreign_key"
+            ]
+        }
+    },
+    "django__django-14017": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_and_commutative",
+                "test_or_commutative"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-21379": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 3,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_subs_no_polynomial_error_sinh",
+                "test_subs_no_polynomial_error_cosh",
+                "test_subs_no_polynomial_error_tanh_twice"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11239": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_ssl_environment_variables_are_set",
+                "test_ssl_environment_variables_omitted_when_not_requested"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "scikit-learn__scikit-learn-14141": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_joblib_key_in_deps_info",
+                "test_joblib_appears_in_show_versions_output"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-10097": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 1,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_invalid_characters_in_userinfo_are_rejected"
+            ],
+            "missing": [
+                "test_valid_userinfo_is_accepted"
+            ]
+        }
+    },
+    "matplotlib__matplotlib-25122": {
+        "n_resolved_tests": 1,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_psd_window_correction_with_scale_by_freq"
+            ],
+            "unresolved": [
+                "test_psd_window_correction_no_scale_by_freq"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-14631": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_disabled_datetime_initial_consistency",
+                "test_disabled_field_not_marked_as_changed"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "pylint-dev__pylint-4551": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_simple_annotation_is_recognised",
+                "test_optional_annotation_is_recognised"
+            ],
+            "missing": []
+        }
+    },
+    "pydata__xarray-3993": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_signature_contains_coord",
+                "test_integrate_positional_still_works"
+            ],
+            "unresolved": [
+                "test_integrate_keyword_coord_matches_dataset"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-13410": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_lock_returns_true_on_success",
+                "test_lock_returns_false_on_nonblocking_failure"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-16642": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_Z_compressed_files",
+                "test_brotli_compressed_files"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sphinx-doc__sphinx-7910": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-13757": {
+        "n_resolved_tests": 5,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_left_mul_symbol_and_poly_evaluates",
+                "test_left_mul_sympy_integer_and_poly_evaluates",
+                "test_left_mul_python_int_and_poly_evaluates",
+                "test_left_mul_rational_and_poly_evaluates",
+                "test_right_mul_cases_remain_unchanged"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-23534": {
+        "n_resolved_tests": 3,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_symbols_cls_function_with_nested_parentheses",
+                "test_symbols_cls_function_single_outer_iterable",
+                "test_symbols_default_cls_still_returns_Symbol"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "astropy__astropy-14598": {
+        "n_resolved_tests": 4,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_double_single_quote_tail",
+                "test_double_single_quote_middle",
+                "test_double_single_quote_beginning",
+                "test_serialised_image_contains_escaped_quotes"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-14053": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-15503": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 2,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_root_level_numeric_key_lookups",
+                "test_nested_numeric_key_lookups"
+            ],
+            "missing": []
+        }
+    },
+    "django__django-11149": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_author_add_view_has_no_m2m_inline_with_view_only_permission",
+                "test_author_change_view_has_no_m2m_inline_with_view_only_permission"
+            ]
+        }
+    },
+    "django__django-13109": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 1,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [],
+            "unresolved": [
+                "test_model_form_accepts_instance_from_base_manager"
+            ],
+            "missing": []
+        }
+    },
+    "sympy__sympy-15349": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_to_rotation_matrix_x_axis",
+                "test_to_rotation_matrix_y_axis"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "sympy__sympy-17630": {
+        "n_resolved_tests": 2,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 0,
+        "details": {
+            "resolved": [
+                "test_blockmatrix_triple_product_with_zero_blocks",
+                "test_blockmatrix_internal_blockmul_preserves_zero_blocks"
+            ],
+            "unresolved": [],
+            "missing": []
+        }
+    },
+    "django__django-13964": {
+        "n_resolved_tests": 0,
+        "n_unresolved_tests": 0,
+        "n_missing_tests": 2,
+        "details": {
+            "resolved": [],
+            "unresolved": [],
+            "missing": [
+                "test_foreign_key_updated_after_related_pk_is_assigned_and_saved",
+                "test_foreign_key_assignment_with_prepopulated_pk_still_works"
+            ]
+        }
+    }
+}
